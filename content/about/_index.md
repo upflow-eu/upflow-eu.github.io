@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2021-06-22T16:16:09+01:00
-draft: true
 ---
 
 This is the about page
