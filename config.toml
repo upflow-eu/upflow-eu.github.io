@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "UPFLOW"
 theme = "ananke"
 SectionPagesMenu = "main"
+
+[params]
+site_logo = "/logo_UP1-1.png"
