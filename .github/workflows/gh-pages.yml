@@ -21,12 +21,12 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
+      - name: Build  # build on PR and merge into main
         run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main'  # skip deployment on PR, just check it builds
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
