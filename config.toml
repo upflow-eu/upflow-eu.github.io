@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://upflow-eu.github.io/"
+languageCode = "en"
 title = "UPFLOW"
 theme = "ananke"
 SectionPagesMenu = "main"
