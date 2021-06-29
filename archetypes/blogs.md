@@ -3,8 +3,5 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: ""
 featured_image: ""
-description: ""
+summary: ""
 ---
-
-
-**Insert Lead paragraph here.**
