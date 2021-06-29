@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-weight: 
+author: ""
+featured_image: ""
+summary: ""
 ---
-
