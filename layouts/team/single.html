@@ -1,7 +1,12 @@
 {{ define "main" }}
     {{ $profile_image := .Param "profile_image"}}
     {{ $profile_image := (trim $profile_image "/") | absURL }}
-    <figure>
-        <img src="{{ $profile_image }}" style="width:40%; border-radius: 100%;"/>
-    </figure>
+    <div class="flex flex-row">
+        <div class="flex flex-colum w-30">
+            <img src="{{ $profile_image }}"/>
+        </div>
+        <div class="flex flex-colum w-70 ph4">
+            {{ .Content }}
+        </div>
+    </div>
 {{ end }}
