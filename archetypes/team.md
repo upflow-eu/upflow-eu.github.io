@@ -1,9 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 author: ""
-featured_image: ""
+profile_image: "/logo_UP1-3.png"
 summary: ""
 type: team
 ---
-
-{{< figure src="/logo_UP1-2.png" title="Steve Francia" >}}
