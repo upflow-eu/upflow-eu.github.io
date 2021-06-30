@@ -1,11 +1,7 @@
 {{ define "main" }}
     {{ $profile_image := .Param "profile_image"}}
-    {{ if $profile_image }}
-        {{ $profile_image := (trim $profile_image "/") | absURL }}
-        <figure>
-            <img src="{{ $profile_image }}" style="width:40%; border-radius: 100%;"/>
-        </figure>
-    {{ else }}
-        more blah 
-    {{ end }}
+    {{ $profile_image := (trim $profile_image "/") | absURL }}
+    <figure>
+        <img src="{{ $profile_image }}" style="width:40%; border-radius: 100%;"/>
+    </figure>
 {{ end }}
