@@ -1,0 +1,30 @@
+{{ define "header" }}
+  <header>
+    <div class="pb3-m pb2-l {{ .Site.Params.background_color_class | default "bg-black" }}">
+      {{ partial "site-navigation.html" . }}
+      <div class="tc-l pv0 ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title mt0">
+          Team
+        </h1> 
+      </div>
+    </div>
+  </header>
+{{ end }}
+
+{{ define "main" }}
+    {{ $profile_image := .Param "profile_image"}}
+    {{ $profile_image := (trim $profile_image "/") | absURL }}
+    <div class="flex flex-row">
+        <div class="flex flex-colum w-30">
+            <img src="{{ $profile_image }}"/>
+        </div>
+        <div class="flex flex-colum w-70 ph4 flex-wrap">
+            <div class="flex flex-row items-end">
+                <h1>{{ .Params.author}}</h1>
+            </div>
+            <div class="flex flex-row w-100">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+{{ end }}
