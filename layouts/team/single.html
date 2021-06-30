@@ -18,8 +18,13 @@
         <div class="flex flex-colum w-30">
             <img src="{{ $profile_image }}"/>
         </div>
-        <div class="flex flex-colum w-70 ph4">
-            {{ .Content }}
+        <div class="flex flex-colum w-70 ph4 flex-wrap">
+            <div class="flex flex-row items-end">
+                <h1>{{ .Params.author}}</h1>
+            </div>
+            <div class="flex flex-row w-100">
+                {{ .Content }}
+            </div>
         </div>
     </div>
 {{ end }}
