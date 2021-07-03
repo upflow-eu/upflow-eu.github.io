@@ -7,10 +7,10 @@
     {{ end}}
     <div>
         <h1 class="ph5">Principle Investigators</h1>
-        <section class="flex-ns flex-wrap justify-around mt1">
+        <section class="flex-ns flex-wrap justify-around">
           {{ range .Pages.ByWeight }}
             {{ if eq .Params.role "PI"}}
-                <div class="relative w-100 w-30-l mb4 bg-white">
+                <div class="relative mv2 bg-white" style="width:45%">
                 {{- partial "summary_people.html" . -}}
                 </div>
             {{ end }}
