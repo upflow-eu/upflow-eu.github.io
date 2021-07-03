@@ -1,12 +1,32 @@
 {{ define "main" }}
-  <article class="nested-copy-line-height nested-img">
-    <section class="flex-ns flex-wrap justify-around mt4">
-      {{ range .Pages.ByWeight }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          {{- partial "summary.html" . -}}
-        </div>
-      {{ end }}
-    </section>
+  <article class="pa3 pa4-ns nested-copy-line-height nested-img">
+    {{ with .Content}}
+        <section class="cf f4 tc-l center measure-wide lh-copy mid-gray">
+        {{- . -}}
+        </section>
+    {{ end}}
+    <div>
+        <h1 class="ph5">Science Team</h1>
+        <section class="flex-ns flex-wrap justify-around">
+          {{ range .Pages.ByWeight }}
+            {{ if eq .Params.role "science"}}
+                <div class="relative mv2 bg-white" style="width:45%">
+                {{- partial "summary_people.html" . -}}
+                </div>
+            {{ end }}
+          {{ end }}
+        </section>
+        <h1 class="ph5">Ship Crew</h1>
+        <section class="flex-ns flex-wrap justify-around">
+          {{ range .Pages.ByWeight }}
+            {{ if eq .Params.role "crew"}}
+                <div class="relative mv2 bg-white" style="width:45%">
+                {{- partial "summary_people.html" . -}}
+                </div>
+            {{ end }}
+          {{ end }}
+        </section>
+    </div>
     {{- template "_internal/pagination.html" . -}}
   </article>
 {{ end }}
