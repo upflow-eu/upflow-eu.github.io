@@ -1,7 +1,7 @@
 ---
 title: "Seismo-Jazz"
 date: 2021-07-03T16:41:18+01:00
-weight: 
+weight: 10
 summary: ""
 ---
 
