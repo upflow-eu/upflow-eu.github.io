@@ -6,11 +6,7 @@
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range (.Paginate .Pages.ByWeight).Pages }}
         <div class="relative w-100 w-30-l mb4 bg-white">
-            {{ if (not (in .Type "people"))}}
-                {{- partial "summary.html" . -}}
-            {{ else }}
-                {{- partial "summary_people.html" . -}}
-            {{ end }}
+          {{- partial "summary.html" . -}}
         </div>
       {{ end }}
     </section>
