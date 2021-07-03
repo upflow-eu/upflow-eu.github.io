@@ -45,6 +45,7 @@
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
     </main>
+    {{ block "sponsors" .}}{{ partial "sponsors.html" . }}{{ end }}
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
   </body>
 </html>
