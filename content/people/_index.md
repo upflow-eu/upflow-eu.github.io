@@ -5,3 +5,4 @@ weight:
 summary: ""
 ---
 
+Below are all the members directly funded by the project.  More to come!
