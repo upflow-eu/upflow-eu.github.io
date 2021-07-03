@@ -1,9 +1,8 @@
 ---
-author: "Auggie Marignier"
-profile_image: "/logo_UP1-3.png"
+title: "Auggie"
+date: 2021-07-03T21:09:41+01:00
+weight: 
 summary: "Scientist, Outreach & Communications"
-type: team
-weight:
+role: "science"
+profile_image: "/logo_UP1-3.png"
 ---
-
-I'm a PhD student at University College London working on _Bayesian inverse methods_ - basically, mathematical techniques to build pictures of the Earth's structure from seismic data.
