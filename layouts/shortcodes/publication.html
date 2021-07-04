@@ -1,0 +1,19 @@
+<div>
+    {{ with .Get "authors" }}
+        {{ . }}
+    {{ end }}
+
+    {{ with .Get "year" }}
+        ({{ . }}).
+    {{ end }}
+
+    {{ with .Get "url" }}<a href="{{ . }}">{{ end }}
+        {{ with .Get "title" }}
+            <i>{{ . }}</i>.
+        {{ end }}
+    {{ if .Get "url" }}</a>{{ end }}
+
+    {{ with .Get "journal" }}
+        {{ . -}}.
+    {{ end }}
+</div>
