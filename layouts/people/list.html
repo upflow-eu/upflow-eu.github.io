@@ -6,20 +6,10 @@
         </section>
     {{ end}}
     <div>
-        <h1 class="ph5">Science Team</h1>
+        <h1 class="ph5">Principle Investigators</h1>
         <section class="flex-ns flex-wrap justify-around">
           {{ range .Pages.ByWeight }}
-            {{ if eq .Params.role "science"}}
-                <div class="relative mv2 bg-white" style="width:45%">
-                {{- partial "summary_people.html" . -}}
-                </div>
-            {{ end }}
-          {{ end }}
-        </section>
-        <h1 class="ph5">Ship Crew</h1>
-        <section class="flex-ns flex-wrap justify-around">
-          {{ range .Pages.ByWeight }}
-            {{ if eq .Params.role "crew"}}
+            {{ if eq .Params.role "PI"}}
                 <div class="relative mv2 bg-white" style="width:45%">
                 {{- partial "summary_people.html" . -}}
                 </div>
