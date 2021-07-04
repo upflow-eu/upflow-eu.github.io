@@ -6,4 +6,4 @@ weight: 9
 
 We have partnered with the [UCL GeoBus](https://www.geobus-london.org.uk/) to share our work with school children.  GeoBus does fantastic work bringing hands-on workshops to schools around London, inspiring the next generation of Earth scientists!  During our [experiment]({{< ref "experiment" >}}), we will attempt (internet connection permitting!) to have a live Q&A with the children and show them the excitement of a scientific campaign on the Atlantic.
 
-{{< figure src="/geobus-logo.png" class="w-100" >}}
+{{< figure src="/sponsors/geobus.png" class="w-100" >}}
