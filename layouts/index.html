@@ -4,11 +4,11 @@
     </article>
     <div class="cf f4 tc-l center lh-copy mid-gray" style="max-width: 90%;">
         <div class="flex flex-row flex-wrap">
-            <div class="flex flex-column pa4" style="max-width: 50%;">
-                {{ with .Site.Params.twitter }}
+            {{ with .Site.Params.twitter }}
+                <div class="flex flex-column pa4" style="max-width: 50%;">
                     <a class="twitter-timeline" data-width="500" data-height="400" data-theme="light" href="https://twitter.com/{{ . }}?ref_src=twsrc%5Etfw">Tweets by {{ . }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                {{ end }}
-            </div>
+                </div>
+            {{ end }}
         </div>
     </div>
 {{ end }}
