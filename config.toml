@@ -7,7 +7,7 @@ enableGitInfo = "true"
 
 [params]
 site_logo = "/logo_UP1-1.png"
-twitter = ""
+twitter = "https://twitter.com/upfloweu"
 instagram = ""
 youtube = ""
 github = "https://github.com/upflow-eu"
