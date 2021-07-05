@@ -8,5 +8,5 @@ While downward mantle flow (subduction) is well constrained, a grand challenge i
 
 #### Project Beneficiaries
 
-University College London (UCL)  
-Instituto Português do Mar e da Atmosfera (IPMA)
+University College London (UCL, UK)  
+Instituto Português do Mar e da Atmosfera (IPMA, Portugal)
