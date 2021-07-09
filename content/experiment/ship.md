@@ -1,5 +1,5 @@
 ---
-title: "RV Mario Ruivo"
+title: "RV Mário Ruivo"
 date: 2021-06-23T12:55:40+01:00
 weight: 2
 summary: "Our home for the summer"
