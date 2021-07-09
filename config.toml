@@ -4,6 +4,7 @@ title = "UPFLOW"
 theme = "ananke"
 SectionPagesMenu = "main"
 enableGitInfo = "true"
+Copyright = "UPFLOW - All rights reserved,"
 
 [params]
 site_logo = "/logo_UP1-1.png"
