@@ -1,11 +1,20 @@
+{{ $icon_size := "16px" }}
+
 <div class="relative w-100 bg-white nested-copy-line-height">
     <div class="flex flex-row">
         <div class="flex flex-column bg-white mb3 pa4 gray overflow-hidden w-70">
             <h1 class="f3 near-black">
                 {{ .Params.author | default .Title }}
+                {{ with .Params.website }}
+                    <a href="{{ . }}">{{ partialCached "svg/new-window.svg" (dict "size" $icon_size) $icon_size }}</a>
+                {{ end }}
             </h1>
             <div class="nested-links f5 lh-copy nested-copy-line-height">
                 {{ .Summary  }}
+                <br>
+                {{ with .Content}}
+                    {{ . }}
+                {{ end }}
             </div>
         </div>
         <div class="flex flex-column bg-white w-40">
