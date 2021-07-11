@@ -10,7 +10,7 @@
         <section class="flex-ns flex-wrap justify-around">
           {{ range .Pages.ByWeight }}
             {{ if eq .Params.role "science"}}
-                <div class="relative mv2 bg-white" style="width:45%">
+                <div class="relative mv2 bg-white" style="width:32%">
                 {{- partial "summary_people.html" . -}}
                 </div>
             {{ end }}
@@ -20,13 +20,22 @@
         <section class="flex-ns flex-wrap justify-around">
           {{ range .Pages.ByWeight }}
             {{ if eq .Params.role "crew"}}
-                <div class="relative mv2 bg-white" style="width:45%">
+                <div class="relative mv2 bg-white" style="width:32%">
+                {{- partial "summary_people.html" . -}}
+                </div>
+            {{ end }}
+          {{ end }}
+        </section>
+        <h1 class="ph5">Other</h1>
+        <section class="flex-ns flex-wrap justify-around">
+          {{ range .Pages.ByWeight }}
+            {{ if eq .Params.role "other"}}
+                <div class="relative mv2 bg-white" style="width:32%">
                 {{- partial "summary_people.html" . -}}
                 </div>
             {{ end }}
           {{ end }}
         </section>
     </div>
-    {{- template "_internal/pagination.html" . -}}
   </article>
 {{ end }}
