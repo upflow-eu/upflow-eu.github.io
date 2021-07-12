@@ -1,6 +1,8 @@
 <div class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">{{ .Date.Format "2 January 2006" }}</span>
+      {{ with .Date }}
+        <span class="f6 db">{{ .Format "2 January 2006" }}</span>
+      {{ end }}
     <h1 class="f3 near-black mb1">
       <a href="{{ .Permalink }}" class="link black dim">
         {{ .Title }}
