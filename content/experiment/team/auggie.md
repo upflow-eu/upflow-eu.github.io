@@ -1,8 +1,8 @@
 ---
-title: "Auggie"
+title: "Auggie Marignier"
 date: 2021-07-03T21:09:41+01:00
 weight: 
-summary: "Scientist, Outreach & Communications"
+summary: "Scientist, Outreach & Communications, Web developer"
 role: "science"
-profile_image: "/logo_UP1-3.png"
+profile_image: "/people_photos/auggie.jpeg"
 ---
