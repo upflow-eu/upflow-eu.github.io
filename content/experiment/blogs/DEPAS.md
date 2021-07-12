@@ -19,7 +19,7 @@ The OBSs, called LOBSTERs, will be stored safely on deck of the research vessel 
 The seismometers measure the seismicity of the ocean bottom. We are so excited what the OBSs will 'experience' during the year of deployment... how many earthquakes are they going to record? How many whales are going to visit the OBSs, or pass by the array? How many storms are crossing the array? How is the ocean behaving in our study region?             
 **But most important, what will the recordings of the OBSs tell us about the upflowing mantle material beneath the study region?**
 
-To answer all these and more questions, we first need to place the OBSs at the ocean bottom. Our task during the next 5 weeks of expedition is to prepare the OBS for their adventure and release them at suitable places. {{< figure src="/route.png" caption="Route of the UPFLOW-expedition (white and black arrows). The locations of the OBSs are numbered and highlighted by the colored rectangles." >}}  The OBSs are very autonomous, during their deployment there's nothing else for it but to cross all fingers for amazing data! 
+To answer all these and more questions, we first need to place the OBSs at the ocean bottom. Our task during the next 5 weeks of expedition is to prepare the OBS for their adventure and release them at suitable places. {{< figure src="/route.png" caption="Route of the UPFLOW-expedition (white and black arrows). The locations of the OBSs are numbered and highlighted by the coloured rectangles." >}}  The OBSs are very autonomous, during their deployment there's nothing else for it but to cross all fingers for amazing data! 
 
 
 We can't wait to get the UPFLOW expedition started! 
