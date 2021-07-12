@@ -1,6 +1,6 @@
 ---
 title: "Adopt an OBS"
-date: 2021-07-09T13:20:19+01:00
+date:
 weight: 2
 summary: "School children name our instruments"
 ---

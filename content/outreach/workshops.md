@@ -1,6 +1,6 @@
 ---
 title: "Workshops - Making waves"
-date: 2021-07-09T14:08:47+01:00
+date:
 weight: 1 
 summary: "Live workshops with school children"
 ---

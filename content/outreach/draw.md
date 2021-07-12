@@ -1,6 +1,6 @@
 ---
 title: "Draw an OBS"
-date: 2021-07-09T13:21:22+01:00
+date:
 weight: 3
 summary: "Imagine what an OBS could look like!"
 ---
