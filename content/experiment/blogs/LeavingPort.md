@@ -4,7 +4,7 @@ date: 2021-07-14T21:23:07+01:00
 type: blogs
 author: "David Schlaphorst"
 featured_image: ""
-summary: "Yesterday we finally left the port."
+summary: "Today we finally left the port."
 ---
 
 {{< figure src="/blogs/Ship_bridge.png" caption="The ship on its way along the Tagus river towards the open Ocean." >}}
