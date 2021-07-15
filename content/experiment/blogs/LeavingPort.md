@@ -17,6 +17,6 @@ But then, at 15:00 we started travelling through the estuary of the Tagus, leavi
 
 Now, the ship is heading for the open waters of the Atlantic Ocean. It will, however, take us a few days until we reach the site of our first OBS deployment. Until then, there is more equipment testing to be done and we will also take the time to get used to the movement of the ship in bigger waves.
 
-{{< figure src="/blogs/MarioRuivo_under_bridge.png" caption="The Mario Ruivo in front of the 25th of April bridge and the Christ the Redeemer statue (photo taken from a great distance because the Tagus is quite wide here)." >}}
+{{< figure src="/blogs/MarioRuivo_under_bridge2.jpg" caption="The Mario Ruivo in front of the 25th of April bridge and the Christ the Redeemer statue." >}}
 
 {{< figure src="/blogs/Explorers_monument.png" caption="A look back on Lisbon and the Explorers' Monument" >}}
