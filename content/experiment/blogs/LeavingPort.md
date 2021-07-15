@@ -4,12 +4,14 @@ date: 2021-07-14T21:23:07+01:00
 type: blogs
 author: "David Schlaphorst"
 featured_image: ""
-summary: "Today we finally left the port."
+summary: "Yesterday we finally left the port."
 ---
 
 {{< figure src="/blogs/Ship_bridge.png" caption="The ship on its way along the Tagus river towards the open Ocean." >}}
 
 Finally, we left the calm waters of the naval base and started our 5-week deployment journey. In the morning, we were busy checking the equipment, especially their communication with the computer. This is important since these ocean bottom seismometer stations will not have a physical link to the sea surface once they are deployed. And while they are still in our reach on the ship we have the chance to find out if any one of them has issues.
+
+{{< figure src="/blogs/Test_releasers.png" caption="Samane, Auggie and Theresa testing the releasers that make sure that they will communicate with the ship at the end of the deployment and release the stations back to the surface." >}}
 
 But then, at 15:00 we started travelling through the estuary of the Tagus, leaving Lisbon behind us and crossing under the Ponte de 25th of Abril (the one that looks a bit like the Golden Gate Bridge). On the port side (left in vessel moving direction) there is Lisbon's own version of the Christ the Redeemer statue you would normally associate with Rio de Janeiro. On the starboard side, we passed by the Tower of Belém and, fittingly for our scientific expedition, the Explorers' Monument.
 
