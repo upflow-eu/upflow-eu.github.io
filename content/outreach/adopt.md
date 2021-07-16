@@ -9,49 +9,49 @@ Thank you to all the kids who have submitted names for our OBSs!  Have a look at
 
 | OBS Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status |
 | ---------------|--------------------------|
-| MONEGA | Standby |
-| 4MS | Standby |
-| LETRO | Standby |
-| TECTOGRAPH | Standby |
-| EQM | Standby |
-| WALKER | Standby |
-| PIRATA | Standby |
-| JELLY | Standby |
-| CAESAR | Standby |
-| ZEUS | Standby |
-| SPARKY | Standby |
-| EXPI | Standby |
-| GANGAGOGO | Standby |
-| MARINO | Standby |
-| ALONSO | Standby |
-| THOR | Standby |
-| MARITIMO | Standby |
-| BROOKFIELD | Standby |
-| GREENSTED | Standby |
-| FRIDOLFIN | Standby |
-| TEAMWORK | Standby |
-| EMI | Standby |
-| PEDRO | Standby |
-| X-GEOLOGICO | Standby |
-| SEAGIZMO | Standby |
-| NAUTILUS | Standby |
-| BANDBERRY | Standby |
-| PHOENIX | Standby |
-| IFINI | Standby |
-| ELIZE | Standby |
-| JAIME | Standby |
-| CURIENDI | Standby |
-| RITA | Standby |
-| CLUNNKIE | Standby |
-| LUCA | Standby |
-| BLINKI | Standby |
-| JAMARO | Standby |
-| SOMBRERO | Standby |
-| JORI | Standby |
-| LILLO | Standby |
-| ISABEL | Standby |
-| FENFAN | Standby |
-| AIDA | Standby |
-| BOLDANI | Standby |
-| SPAIRO | Standby |
-| SARA | Standby |
+| MONEGA | {{< fontcolour blue Standby >}} |
+| 4MS | {{< fontcolour blue Standby >}} |
+| LETRO | {{< fontcolour blue Standby >}} |
+| TECTOGRAPH | {{< fontcolour blue Standby >}} |
+| EQM | {{< fontcolour blue Standby >}} |
+| WALKER | {{< fontcolour blue Standby >}} |
+| PIRATA | {{< fontcolour blue Standby >}} |
+| JELLY | {{< fontcolour blue Standby >}} |
+| CAESAR | {{< fontcolour blue Standby >}} |
+| ZEUS | {{< fontcolour blue Standby >}} |
+| SPARKY | {{< fontcolour blue Standby >}} |
+| EXPI | {{< fontcolour blue Standby >}} |
+| GANGAGOGO | {{< fontcolour blue Standby >}} |
+| MARINO | {{< fontcolour blue Standby >}} |
+| ALONSO | {{< fontcolour blue Standby >}} |
+| THOR | {{< fontcolour blue Standby >}} |
+| MARITIMO | {{< fontcolour blue Standby >}} |
+| BROOKFIELD | {{< fontcolour blue Standby >}} |
+| GREENSTED | {{< fontcolour blue Standby >}} |
+| FRIDOLFIN | {{< fontcolour blue Standby >}} |
+| TEAMWORK | {{< fontcolour blue Standby >}} |
+| EMI | {{< fontcolour blue Standby >}} |
+| PEDRO | {{< fontcolour blue Standby >}} |
+| X-GEOLOGICO | {{< fontcolour blue Standby >}} |
+| SEAGIZMO | {{< fontcolour blue Standby >}} |
+| NAUTILUS | {{< fontcolour blue Standby >}} |
+| BANDBERRY | {{< fontcolour blue Standby >}} |
+| PHOENIX | {{< fontcolour blue Standby >}} |
+| IFINI | {{< fontcolour blue Standby >}} |
+| ELIZE | {{< fontcolour blue Standby >}} |
+| JAIME | {{< fontcolour blue Standby >}} |
+| CURIENDI | {{< fontcolour blue Standby >}} |
+| RITA | {{< fontcolour blue Standby >}} |
+| CLUNNKIE | {{< fontcolour blue Standby >}} |
+| LUCA | {{< fontcolour blue Standby >}} |
+| BLINKI | {{< fontcolour blue Standby >}} |
+| JAMARO | {{< fontcolour blue Standby >}} |
+| SOMBRERO | {{< fontcolour blue Standby >}} |
+| JORI | {{< fontcolour blue Standby >}} |
+| LILLO | {{< fontcolour blue Standby >}} |
+| ISABEL | {{< fontcolour blue Standby >}} |
+| FENFAN | {{< fontcolour blue Standby >}} |
+| AIDA | {{< fontcolour blue Standby >}} |
+| BOLDANI | {{< fontcolour blue Standby >}} |
+| SPAIRO | {{< fontcolour blue Standby >}} |
+| SARA | {{< fontcolour blue Standby >}} |
