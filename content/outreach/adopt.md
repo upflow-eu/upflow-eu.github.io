@@ -7,7 +7,7 @@ summary: "School children name our instruments"
 
 Thank you to all the kids who have submitted names for our OBSs!  Have a look at the table below to see if your name was chosen and if your OBS has been deployed yet!
 
-| OBS Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status |
+| OBS Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status |
 | ---------------|--------------------------|
 | MONEGA | {{< fontcolour blue Standby >}} |
 | 4MS | {{< fontcolour blue Standby >}} |
