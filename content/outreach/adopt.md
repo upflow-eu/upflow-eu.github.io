@@ -9,8 +9,8 @@ Thank you to all the kids who have submitted names for our OBSs!  Have a look at
 
 | OBS Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status |
 | ---------------|--------------------------|
-| MONEGA | {{< fontcolour blue Standby >}} |
-| 4MS | {{< fontcolour blue Standby >}} |
+| MONEGA | {{< fontcolour green Deployed >}} |
+| 4MS | {{< fontcolour green Deployed >}} |
 | LETRO | {{< fontcolour blue Standby >}} |
 | TECTOGRAPH | {{< fontcolour blue Standby >}} |
 | EQM | {{< fontcolour blue Standby >}} |
