@@ -19,7 +19,7 @@ Ana herself took the task of pulling the rope that releases the instrument from 
 
 {{< figure src="/blogs/ReleaseStills.png" caption="**Monega** being released into the Atlantic and giving us a final light signal." >}}
 
-But everything went fine and through the night the ship powered up its engines to bring us to the second spot, where **4MS** was deployed this morning at 6:00, sinking down as the sun rose up. The sea was so calm it could as well have been a solid flat surface, or "mar chão" (floor sea) as they call it in Portuguese. Quite stunning actually. We will now continue to deploy stations over the next few weeks, hopefully in weather conditions as excellent as those we had so far.
+But everything went fine and through the night the ship powered up its engines to bring us to the second spot, where **4Ms** was deployed this morning at 6:00, sinking down as the sun rose up. The sea was so calm it could as well have been a solid flat surface, or "mar chão" (floor sea) as they call it in Portuguese. Quite stunning actually. We will now continue to deploy stations over the next few weeks, hopefully in weather conditions as excellent as those we had so far.
 
 {{< figure src="/blogs/OBS4MS_release.png" caption="**4Ms** on the crane waiting to be lowered towards the seasurface and then released from the crane." >}}
 
