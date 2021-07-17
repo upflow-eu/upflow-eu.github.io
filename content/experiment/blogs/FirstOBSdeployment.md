@@ -21,7 +21,7 @@ Ana herself took the task of pulling the rope that releases the instrument from 
 
 But everything went fine and through the night the ship powered up its engines to bring us to the second spot, where **4Ms** was deployed this morning at 6:00, sinking down as the sun rose up. The sea was so calm it could as well have been a solid flat surface, or "mar chão" (floor sea) as they call it in Portuguese. Quite stunning actually. We will now continue to deploy stations over the next few weeks, hopefully in weather conditions as excellent as those we had so far.
 
-{{< figure src="/blogs/OBS4MS_release.png" caption="**4Ms** on the crane waiting to be lowered towards the seasurface and then released from the crane." >}}
+{{< figure src="/blogs/OBS4MS_release.png" caption="**4Ms** on the crane waiting to be lowered towards the seasurface and then released." >}}
 
 Another nice side effect of calm seas and being outside a lot for the deployment is the increased chance of spotting wildlife. Yesterday we were very excited to spot a number of dolphins and a whale around the ship (the excitement was probably palpable in the Twitter posts we had to send out straight away - check out our creative way of spelling "dolphins" in the heat of the moment). Even if they were too far away to capture them accurately with our cameras, the sight of the rising dorsal fin as the whale was diving down again was still stunning. Our unwritten rule will now likely be: if we see whales again, we will have to let everyone know, potentially in all caps.
 
