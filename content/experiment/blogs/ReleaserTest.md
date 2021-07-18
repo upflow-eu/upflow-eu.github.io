@@ -1,5 +1,5 @@
 ---
-title: "The Releaser are tested"
+title: "The Releasers are tested"
 date: 2021-07-15T09:27:17+02:00
 type: blogs
 author: "Theresa Rein"

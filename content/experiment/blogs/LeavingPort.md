@@ -20,3 +20,5 @@ Now, the ship is heading for the open waters of the Atlantic Ocean. It will, how
 {{< figure src="/blogs/MarioRuivo_under_bridge2.jpg" caption="The Mario Ruivo in front of the 25th of April bridge and the Christ the Redeemer statue." >}}
 
 {{< figure src="/blogs/Explorers_monument.png" caption="A look back on Lisbon and the Explorers' Monument" >}}
+
+{{< figure src="/TeamFirstLeg.jpg" caption="The team of the first leg on deck right at the point of leaving the port." >}}

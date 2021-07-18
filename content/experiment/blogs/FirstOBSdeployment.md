@@ -1,5 +1,5 @@
 ---
-title: "First two deployments successful."
+title: "First two deployments successful"
 date: 2021-07-17T09:55:37+01:00
 type: blogs
 author: "David Schlaphorst"
