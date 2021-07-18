@@ -11,9 +11,9 @@ Thank you to all the kids who have submitted names for our OBSs!  Have a look at
 | ---------------|--------------------------|
 | MONEGA | {{< fontcolour green Deployed >}} |
 | 4MS | {{< fontcolour green Deployed >}} |
-| LETRO | {{< fontcolour blue Standby >}} |
-| TECTOGRAPH | {{< fontcolour blue Standby >}} |
-| EQM | {{< fontcolour blue Standby >}} |
+| LETRO | {{< fontcolour green Deployed >}} |
+| TECTOGRAPH | {{< fontcolour green Deployed >}} |
+| EQM | {{< fontcolour green Deployed >}} |
 | WALKER | {{< fontcolour blue Standby >}} |
 | PIRATA | {{< fontcolour blue Standby >}} |
 | JELLY | {{< fontcolour blue Standby >}} |
