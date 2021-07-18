@@ -17,3 +17,4 @@ We have asked school children from around the world to imagine what they think o
 {{< figure src="/drawings/Alonso7Spain.jpeg" caption="Alonso, 7, Spain" class="w-30 fl">}}
 {{< figure src="/drawings/Rita8Portugal.png" caption="Rita, 8, Portugal" class="w-30 fr">}}
 {{< figure src="/drawings/Jaime12Portugal.jpg" caption="Jaime, 12, UK" class="w-30 fl">}}
+{{< figure src="/drawings/Emi6Germany.png" caption="Emi, 6, Germany" class="w-30 fl">}}
