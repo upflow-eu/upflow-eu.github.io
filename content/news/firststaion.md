@@ -1,6 +1,7 @@
 ---
 title: "First OBS deployed!"
 date: 2021-07-16T20:44:00+01:00
+type: blogs
 weight: 
 summary: "It's a girl! Her name is Monega, after one the primary schools that participated in our workshops. "
 ---
