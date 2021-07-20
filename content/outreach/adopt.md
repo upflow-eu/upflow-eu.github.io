@@ -14,11 +14,11 @@ Thank you to all the kids who have submitted names for our OBSs!  Have a look at
 | LETRO | {{< fontcolour green Deployed >}} |
 | TECTOGRAPH | {{< fontcolour green Deployed >}} |
 | EQM | {{< fontcolour green Deployed >}} |
-| WALKER | {{< fontcolour blue Standby >}} |
-| PIRATA | {{< fontcolour blue Standby >}} |
-| JELLY | {{< fontcolour blue Standby >}} |
-| CAESAR | {{< fontcolour blue Standby >}} |
-| ZEUS | {{< fontcolour blue Standby >}} |
+| WALKER | {{< fontcolour green Deployed >}} |
+| PIRATA | {{< fontcolour green Deployed >}} |
+| JELLY | {{< fontcolour green Deployed >}} |
+| CAESAR | {{< fontcolour green Deployed >}} |
+| ZEUS | {{< fontcolour green Deployed >}} |
 | SPARKY | {{< fontcolour blue Standby >}} |
 | EXPI | {{< fontcolour blue Standby >}} |
 | GANGAGOGO | {{< fontcolour blue Standby >}} |
