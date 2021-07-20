@@ -10,24 +10,22 @@
         <div class="flex-l items-center">
             {{ partial "i18nlist.html" . }}
             {{ if .Site.Menus.main }}
-            <ul class="pl0 mr3 dropdown">
-                {{ $currentPage := . }}
-                {{ range .Site.Menus.main }}
-                    {{ if .HasChildren}}
-                        <li class="list f5 f4-ns fw4 dib pr3 {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }} dropbtn">
+            {{ range .Site.Menus.main }}
+                {{ if .HasChildren}}
+                    <ul class="pl0 mr3 dropdown">
+                        <li class="list f5 f4-ns fw4 dib pr3 dropbtn">
                             <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
                                 {{ .Name }}
                             </a>
                         </li>
-                        <ul class="droplist">
+                        <div class="droplist">
                             {{ range .Children}}
-                                <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                                    <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
-                                        {{ .Name }}
-                                    </a>
-                                </li>
+                                <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+                                    {{ .Name }}
+                                </a>
                             {{ end }}
-                        </ul>
+                        </div>
+                    </ul>
                     {{ else }}}
                         <li class="list f5 f4-ns fw4 dib pr3">
                             <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
@@ -36,7 +34,6 @@
                         </li>
                     {{ end }}
                 {{ end }}
-            </ul>
             {{ end }}
         </div>
     </div>
