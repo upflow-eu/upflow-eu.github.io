@@ -14,6 +14,11 @@ github = "https://github.com/upflow-eu"
 custom_css = ["css/custom.css"]
 recent_posts_number = 5
 
+[taxonomies]
+author = "author"
+tag = "tags"
+category = "categories"
+
 
 [menu]
     [[menu.main]]
