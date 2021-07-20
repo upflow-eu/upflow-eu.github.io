@@ -29,7 +29,7 @@
                             {{ end }}
                         </div>
                         
-                        {{ $n_posts := 5 }}
+                        {{ $n_posts := .Site.Params.recent_posts_number }}
                         <section class="w-100 mw8">
                         {{/* Range through the first $n_posts items of the section */}}
                         {{ range (first $n_posts $section) }}
