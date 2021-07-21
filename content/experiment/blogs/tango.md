@@ -4,7 +4,7 @@ date: 2021-07-21T08:42:59+01:00
 type: blogs
 author: "Auggie Marignier"
 featured_image: ""
-summary: ""
+summary: "... who's name is Mário"
 tags: []
 ---
 
