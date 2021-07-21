@@ -7,7 +7,7 @@ featured_image: ""
 summary: "Not everything is work here, so what can you do on a research vessel?"
 ---
 
-Life on board of the ship is not all OBS and testing equipment. Of course, this is the main purpose of the expedition but five weeks are a long time and, as the chief mate Élio told us during the briefing, like in everyday life you have to find distractions from time to time. So, today we will investigate what can be done on a moderately sized ship.
+Life on board of the ship is not all deploying OBS instruments and testing equipment. Of course, this is the main purpose of the expedition but five weeks are a long time and, as the chief mate Élio told us during the briefing, like in everyday life you have to find distractions from time to time. So, today we will investigate what can be done on a moderately sized ship.
 
 First of all, let's start by listing a few things you cannot do. A quick stroll in the park? Not possible – they did not install a park on board. Leaving your workplace for a few minutes to clear your mind? Nope – everything is ship, everything is workplace.
 
