@@ -107,19 +107,19 @@ category = "categories"
     [[menu.main]]
         identifier = "Workshops"
         name = "Workshops"
-        url = "/experiment/workshops"
+        url = "/outreach/workshops"
         parent = "Outreach"
         weight = 1
     [[menu.main]]
         identifier = "Adopt"
         name = "Adopt an OBS"
-        url = "/experiment/adopt"
+        url = "/outreach/adopt"
         parent = "Outreach"
         weight = 2
     [[menu.main]]
         identifier = "Drawings"
         name = "Drawings"
-        url = "/experiment/draw"
+        url = "/outreach/draw"
         parent = "Outreach"
         weight = 3
 
