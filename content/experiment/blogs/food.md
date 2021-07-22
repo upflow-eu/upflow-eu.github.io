@@ -5,6 +5,7 @@ type: blogs
 author: "Auggie Marignier"
 featured_image: ""
 summary: "Auggie Reviews"
+tags: ["Auggie Reviews"]
 ---
 
 In this first instalment of *Auggie Reviews*, I discuss the food provided on board the Mário Ruivo by the cooks José and Carlos.  I'll start by saying that I really enjoy eating, but I know what I like to eat.  If there's a dish that I enjoy I will eat lots of it, which is why I was happy to see that meals on the ship are in the form of a self-service buffet, and also if I were to ask "Desculpe, pode ser um bife mais por favor?" ("Excuse me, can I have another steak, please?") the answer is usually "Sim" ("Yes")!

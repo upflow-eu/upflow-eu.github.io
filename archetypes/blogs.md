@@ -5,4 +5,5 @@ type: blogs
 author: ""
 featured_image: ""
 summary: ""
+tags: []
 ---

@@ -37,6 +37,9 @@
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
+
+    <meta name="google-site-verification" content="9QrQ_r9NQTkCG4DaQY9A1YpZ3MGIPJZ52X2BP7UAMso" />
+
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">

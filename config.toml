@@ -2,13 +2,129 @@ baseURL = "https://upflow-eu.github.io/"
 languageCode = "en"
 title = "UPFLOW"
 theme = "ananke"
-SectionPagesMenu = "main"
 enableGitInfo = "true"
 Copyright = "UPFLOW - All rights reserved,"
 
 [params]
 site_logo = "/logo_UP1-1.png"
 twitter = "https://twitter.com/upfloweu"
-instagram = ""
-youtube = ""
+instagram = "https://www.instagram.com/upfloweu/"
+youtube = "https://www.youtube.com/channel/UCa3wuhPfmAeYsNd73rSI8gA/about"
 github = "https://github.com/upflow-eu"
+custom_css = ["css/custom.css"]
+recent_posts_number = 5
+
+[taxonomies]
+author = "author"
+tag = "tags"
+category = "categories"
+
+
+[menu]
+    [[menu.main]]
+        identifier = "About"
+        name = "About"
+        url = "/about"
+        weight = 1
+    [[menu.main]]
+        identifier = "Science"
+        name = "Science"
+        url = "/about/science"
+        parent = "About"
+        weight = 1
+    [[menu.main]]
+        identifier = "Funding"
+        name = "Funding"
+        url = "/about/funding"
+        parent = "About"
+        weight = 2
+ 
+    [[menu.main]]
+        identifier = "People"
+        name = "People"
+        url = "/people"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "News"
+        name = "News"
+        url = "/news"
+        weight = 3
+
+    [[menu.main]]
+        identifier = "Experiment"
+        name = "Experiment"
+        url = "/experiment"
+        weight = 4
+    [[menu.main]]
+        identifier = "Instruments"
+        name = "Instruments"
+        url = "/experiment/instruments"
+        parent = "Experiment"
+        weight = 1
+    [[menu.main]]
+        identifier = "Study Region"
+        name = "Study Region"
+        url = "/experiment/region"
+        parent = "Experiment"
+        weight = 2
+    [[menu.main]]
+        identifier = "Ship"
+        name = "RV Mário Ruivo"
+        url = "/experiment/ship"
+        parent = "Experiment"
+        weight = 3
+    [[menu.main]]
+        identifier = "Team"
+        name = "Team"
+        url = "/experiment/team"
+        parent = "Experiment"
+        weight = 4
+    [[menu.main]]
+        identifier = "Blogs"
+        name = "Blogs"
+        url = "/experiment/blogs"
+        parent = "Experiment"
+        weight = 5
+    [[menu.main]]
+        identifier = "Videos"
+        name = "Videos"
+        url = "/experiment/videos"
+        parent = "Experiment"
+        weight = 6
+
+    [[menu.main]]
+        identifier = "Publications"
+        name = "Publications"
+        url = "/publications"
+        weight = 5
+
+    [[menu.main]]
+        identifier = "Outreach"
+        name = "Outreach"
+        url = "/outreach"
+        weight = 6
+    [[menu.main]]
+        identifier = "Workshops"
+        name = "Workshops"
+        url = "/experiment/workshops"
+        parent = "Outreach"
+        weight = 1
+    [[menu.main]]
+        identifier = "Adopt"
+        name = "Adopt an OBS"
+        url = "/experiment/adopt"
+        parent = "Outreach"
+        weight = 2
+    [[menu.main]]
+        identifier = "Drawings"
+        name = "Drawings"
+        url = "/experiment/draw"
+        parent = "Outreach"
+        weight = 3
+
+    [[menu.main]]
+        identifier = "Jazz"
+        name = "Seismo-Jazz"
+        url = "/jazz"
+        weight = 7
