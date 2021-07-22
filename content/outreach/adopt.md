@@ -19,10 +19,10 @@ Thank you to all the kids who have submitted names for our OBSs!  Have a look at
 | JELLY | {{< fontcolour green Deployed >}} |
 | CAESAR | {{< fontcolour green Deployed >}} |
 | ZEUS | {{< fontcolour green Deployed >}} |
-| SPARKY | {{< fontcolour blue Standby >}} |
-| EXPI | {{< fontcolour blue Standby >}} |
-| GANGAGOGO | {{< fontcolour blue Standby >}} |
-| MARINO | {{< fontcolour blue Standby >}} |
+| SPARKY | {{< fontcolour green Deployed >}} |
+| EXPI | {{< fontcolour green Deployed >}} |
+| GANGAGOGO | {{< fontcolour green Deployed >}} |
+| MARINO | {{< fontcolour green Deployed >}} |
 | ALONSO | {{< fontcolour blue Standby >}} |
 | THOR | {{< fontcolour blue Standby >}} |
 | MARITIMO | {{< fontcolour blue Standby >}} |
