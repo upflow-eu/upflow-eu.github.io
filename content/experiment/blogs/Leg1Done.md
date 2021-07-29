@@ -20,7 +20,4 @@ All in all, the first leg has been very successful. Due to the amazing weather c
 
 Right now, however, we will rest for a few days in the port. For a few days the constant movement and engine noise  of the vessel will stop. I've heard you can get landsick because after two weeks the body is used to counterbalance the motion constantly – we will see. Also, some of the people from our science team will leave us here but we will get new ones and then, hopefully, will continue as successfully as we started. Whatever will happen, you will read about it on this website, as well as on [Twitter](https://twitter.com/upfloweu), [Instagram](https://www.instagram.com/upfloweu/) and [Youtube](https://www.youtube.com/channel/UCa3wuhPfmAeYsNd73rSI8gA).
 
-{{< figure src="/blogs/MR_arriving_PontaDelgada.jpg" caption="Peter who waited in a hotel in Ponta Delgada to join us on the second leg had the chance to take some great picture of the ship arriving and \"reverse parking\"." >}}
-
-
-
+{{< figure src="/blogs/MR_arriving_PontaDelgada.jpg" caption="Peter who waited in a hotel in Ponta Delgada to join us on the second leg had the chance to take some great pictures of the ship arriving and \"reverse parking\"." >}}
