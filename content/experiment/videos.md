@@ -56,3 +56,9 @@ UPFLOW campaign video.
 {{< youtube id="Lh3gzu5EdjU" title="UPFLOW: lunar motion" >}}
 
 ---
+
+23/07/2021 – Deployment of an IDL OBS station in the middle of the Atlantic. The IDL design is slightly different, which makes it much easier to handle on deck during deployment but it takes slightly longer to sink. Therefore, it seems to be floating for a while after being released.
+
+{{< youtube id="GwJCYfvh5rY" title="UPFLOW: deployment IDL" >}}
+
+---
