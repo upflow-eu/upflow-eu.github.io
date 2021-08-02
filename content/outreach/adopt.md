@@ -35,12 +35,12 @@ Thank you to all the kids who have submitted names for our OBSs!  Have a look at
 | X-GEOLOGICO | {{< fontcolour green Deployed >}} |
 | SEAGIZMO | {{< fontcolour green Deployed >}} |
 | NAUTILUS | {{< fontcolour green Deployed >}} |
-| BANDBERRY | {{< fontcolour blue Standby >}} |
-| PHOENIX | {{< fontcolour blue Standby >}} |
+| BANDBERRY | {{< fontcolour green Deployed >}} |
+| PHOENIX | {{< fontcolour green Deployed >}} |
 | IFINI | {{< fontcolour blue Standby >}} |
 | ELIZE | {{< fontcolour blue Standby >}} |
-| JAIME | {{< fontcolour blue Standby >}} |
-| CURIENDI | {{< fontcolour blue Standby >}} |
+| JAIME | {{< fontcolour green Deployed >}} |
+| CURIENDI | {{< fontcolour green Deployed >}} |
 | RITA | {{< fontcolour blue Standby >}} |
 | CLUNNKIE | {{< fontcolour blue Standby >}} |
 | LUCA | {{< fontcolour blue Standby >}} |
