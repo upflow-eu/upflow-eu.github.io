@@ -17,6 +17,6 @@ Group meals, joint work, more or less personal chats and even dancing brought an
 
 I left leg 1 with a ginormous lump in my throat. I couldn't wait to hug the kids, but I also wished that I could stay until the end. The power of the next OBS diving into the deep water, the stimulating science meetings, the warm sea breeze at the end of the day, the dolphin(g)s and whales, posting a postcard in the Selvagens (no, team, no way!), watching an online jazz gig together. But, most importantly, continuing to share this fantastic experience with such amazing people, being part of the adventure. I feel incredibly lucky and privileged to have lived with you and have shared so many intense moments in the last couple of weeks. Thank you everyone! I will entusiastically follow the adventures of leg 2 team, and with a dash of jealousy!
 
-{{< figure src="/obs_deilvery1.jpeg" caption="The fabulous leg 1 team." >}}
-{{< figure src="/obs_deilvery2.jpeg" caption="The brilliant leg 1 women." >}}
+{{< figure src="/TeamFirstLeg.jpg" caption="The fabulous leg 1 team." >}}
+{{< figure src="/blogs/Women_leg1.jpg" caption="The brilliant leg 1 women." >}}
 
