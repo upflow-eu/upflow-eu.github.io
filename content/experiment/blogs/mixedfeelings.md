@@ -1,10 +1,10 @@
 ---
-title: "Mixed feelings (or how to be a mum and a cruise chief scientist for the first time)"
+title: "Mixed feelings"
 date: 2021-08-03T09:57:26+02:00
 type: blogs
 author: "Ana Ferreira"
 featured_image: ""
-summary: ""
+summary: "(or how to be a mum and a cruise chief scientist for the first time)"
 ---
 
 Being in a research cruise is a really special, unique experience. Our time schedule is driven by the project's specificities (e.g., OBS instruments that need to be deployed at specific times, day and night) and space may be constantly shared with strangers with very diverse backgrounds. It feels like being in a very distinct space-time world that we invented but that eventually took its own command. Focus is high (well, mostly), to make sure that all tasks are properly done and to ensure that everything goes well for everyone. Friendships and bonds naturally develop and everyone quickly understands that cooperation is key for a positive experience - never has the expression "we are all in the same boat" made so much sense to me.
