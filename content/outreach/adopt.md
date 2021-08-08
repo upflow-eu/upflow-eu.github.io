@@ -37,7 +37,7 @@ Thank you to all the kids who have submitted names for our OBSs!  Have a look at
 | NAUTILUS | {{< fontcolour green Deployed >}} |
 | BANDBERRY | {{< fontcolour green Deployed >}} |
 | PHOENIX | {{< fontcolour green Deployed >}} |
-| IFINI | {{< fontcolour green Deployed >}}|
+| IFINI | {{< fontcolour green Deployed >}} |
 | ELIZE | {{< fontcolour green Deployed >}} |
 | JAIME | {{< fontcolour green Deployed >}} |
 | CURIENDI | {{< fontcolour green Deployed >}} |
