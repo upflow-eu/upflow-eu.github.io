@@ -1,5 +1,5 @@
 ---
-title: "Afonso Louereiro"
+title: "Afonso Loureiro"
 date: 2021-07-11T10:23:33+01:00
 weight: 
 summary: "Scientist"
