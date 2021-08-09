@@ -17,6 +17,6 @@ We also launched a competition for children living in Portugal, Spain, Ireland, 
 
 We aim to continue developing creative dissemination activities around the UPFLOW project and are bubbling with ideas... watch this space!
 
-{{< figure src="/static/blogs/Amy1.jpg" caption="Dr Amy Edgington from UCL's GeoBus." >}}
-{{< figure src="/static/blogs/Amy2.jpg" caption="Dr Amy Edgington running a workshop." >}}
-{{< figure src="/static/blogs/Schools_zoom_session.png" caption="Prof. Ana Ferreira answering school children's questions, sitting on the captain's chair in the ship's bridge. The London schools that participated in the workshops are Monega Primary school, Greensted Primary School, Walker Primary School and Brookfield Primary School." >}}
+{{< figure src="/blogs/Amy1.jpg" caption="Dr Amy Edgington from UCL's GeoBus." >}}
+{{< figure src="/blogs/Amy2.jpg" caption="Dr Amy Edgington running a workshop." >}}
+{{< figure src="/blogs/Schools_zoom_session.png" caption="Prof. Ana Ferreira answering school children's questions, sitting on the captain's chair in the ship's bridge. The London schools that participated in the workshops are Monega Primary school, Greensted Primary School, Walker Primary School and Brookfield Primary School." >}}
