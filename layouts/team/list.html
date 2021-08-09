@@ -6,7 +6,7 @@
         </section>
     {{ end}}
     <div>
-        <h1 class="ph5">Science Team</h1>
+        <h1 class="ph5" id="Science">Science Team</h1>
         <section class="flex-ns flex-wrap justify-around">
           {{ range .Pages.ByWeight }}
             {{ if eq .Params.role "science"}}
@@ -16,7 +16,7 @@
             {{ end }}
           {{ end }}
         </section>
-        <h1 class="ph5">Ship Crew</h1>
+        <h1 class="ph5" id="Ship">Ship Crew</h1>
         <section class="flex-ns flex-wrap justify-around">
           {{ range .Pages.ByWeight }}
             {{ if eq .Params.role "crew"}}
@@ -26,7 +26,7 @@
             {{ end }}
           {{ end }}
         </section>
-        <h1 class="ph5">Support</h1>
+        <h1 class="ph5" id="Support">Support</h1>
         <section class="flex-ns flex-wrap justify-around">
           {{ range .Pages.ByWeight }}
             {{ if eq .Params.role "other"}}

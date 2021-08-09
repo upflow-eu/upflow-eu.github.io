@@ -53,5 +53,5 @@ Thank you to all the kids who have submitted names for our OBSs!  Have a look at
 | FENFAN | {{< fontcolour green Deployed >}} |
 | AIDA | {{< fontcolour green Deployed >}} |
 | BOLDANI | {{< fontcolour green Deployed >}} |
-| SISMOEXPLORER21 | {{< fontcolour blue Standby >}} |
-| SARA | {{< fontcolour blue Standby >}} |
+| SISMOEXPLORER21 | {{< fontcolour green Deployed >}} |
+| SARA | {{< fontcolour green Deployed >}} |
