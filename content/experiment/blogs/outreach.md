@@ -1,10 +1,10 @@
 ---
 title: "Floating UPFLOW outreach"
-date: 2021-08-08 T09:57:26+02:00
+date: 2021-08-08T09:57:26+02:00
 type: blogs
 author: "Ana Ferreira"
 featured_image: ""
-summary: ""
+summary: "Making Waves"
 ---
 
 As part of UPFLOW's dissemination activities, we have teamed up with [UCL's GeoBus](https://www.geobus.org.uk) and ran online zoom sessions with four different London primary schools about sound and waves, and about the UPFLOW project. GeoBus' coordinator Dr. Amy Edgington devised a very exciting workshop entitled "Making waves: Exploring the Earth from the Ocean Floor" where she covered the basics of sound and seismic waves, seimometers and how we use seismic waves to study the Earth's interior. At the end of the workshop, the R/V Mário Ruivo connected to the workshops and I answered live the various questions raised by the children about the UPFLOW experiment.
