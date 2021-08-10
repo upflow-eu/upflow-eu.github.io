@@ -5,7 +5,6 @@ type: blogs
 author: "Marta Neres & Peter Makus"
 featured_image: ""
 summary: "Meet the Captain of the Mário Ruivo / Entrevista com o comandante do Mário Ruivo"
-tags: ["From the Eyes of a Child"]
 ---
 
 **Versão portuguesa em baixo.**
