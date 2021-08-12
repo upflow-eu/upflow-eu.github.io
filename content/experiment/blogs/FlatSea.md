@@ -1,6 +1,6 @@
 ---
 title: "Shades of blue"
-date: 2021-07-21T19:13:39+02:00
+date: 2021-08-11T19:13:39+02:00
 type: blogs
 author: "Theresa Rein"
 featured_image: ""
