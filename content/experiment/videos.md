@@ -9,9 +9,15 @@ Here you can find our collection of videos taken during the UPFLOW OBS deploymen
 
 ---
 
-UPFLOW campaign video.
+UPFLOW campaign video Part I.
 
-{{< youtube id="squhUch4lUE" title="UPFLOW campaign video" >}}
+{{< youtube id="squhUch4lUE" title="UPFLOW campaign video Part I" >}}
+
+---
+
+UPFLOW campaign video Part II.
+
+{{< youtube id="reTna3GxR9I" title="UPFLOW campaign video Part II" >}}
 
 ---
 
