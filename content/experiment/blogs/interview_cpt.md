@@ -7,10 +7,9 @@ featured_image: ""
 summary: "Meet the Captain of the Mário Ruivo / Entrevista com o comandante do Mário Ruivo"
 ---
 
-**Versão portuguesa em baixo.**
+**Versão portuguesa em [baixo]({{< relref "#comandante-josé-gomes" >}}).**
 
 We went ahead and interviewed some of the crew members. This is the first interview out of the series with Captain José Gomes.
-
 
 ### Captain José Gomes ###
 
@@ -37,13 +36,13 @@ Old family traditions dictate that one does not leave to sea on Fridays.
 
 To him, the most memorable experience was piloting the Baía Farta . Second to this is sailing in North Europe and experiencing the sea ice and the extremely cold temperatures. Once their vessel got stuck in the ice so that another ship had to come to rescue them.
 
-During the UPFLOW experiment, Ana and Frederik had daily briefings with captain José Gomes to revise the route and deployment times as needed and discuss any logistics aspects. He and the bridge team kept us informed about the weather forecast and sea state conditions, providing us with regular data logs. Importantly, the UPFLOW team was always welcome to the bridge at any time and the captain even kindly offered his chair to the chief scientist to run the project’s live zoom sessions with schools (link: https://upflow-eu.github.io/experiment/blogs/outreach/ )! The excellent synergy and close relationship between the bridge, the crew and the UPFLOW team were key to the deployment’s success.
+During the UPFLOW experiment, Ana and Frederik had daily briefings with captain José Gomes to revise the route and deployment times as needed and discuss any logistics aspects. He and the bridge team kept us informed about the weather forecast and sea state conditions, providing us with regular data logs. Importantly, the UPFLOW team was always welcome to the bridge at any time and the captain even kindly offered his chair to the chief scientist to run the project’s [live zoom sessions with schools](https://upflow-eu.github.io/experiment/blogs/outreach/)! The excellent synergy and close relationship between the bridge, the crew and the UPFLOW team were key to the deployment’s success.
 
 {{< figure src="/blogs/ana_on_bridge.jpeg" caption="Ana having a zoom call with a school in the UK." >}}
 
 
-
 ### Comandante José Gomes ###
+
 O nosso capitão nasceu em Ílhavo, distrito de Aveiro, há 67 anos. Trabalha no mar desde 1976, como capitão desde 1987.
 Tendo nascido numa vila piscatória, o mar sempre teve um papel central na sua vida. Desde há várias gerações os homens da sua família trabalhavam na pesca do bacalhau na Noruega e no Canadá. O seu pai, por exemplo, trabalhou nesses navios como chefe de máquinas.
 Após o secundário estudou na Escola Náutica Infante Dom Henrique em Paço de Arcos durante quatro anos. Começou então por trabalhar como Imediato na pesca do bacalhau no Canadá e na Noruega. Dependendo das condições do mar, o trânsito entre Portugal e o Canadá podia demorar entre 11 e 23 dias, e a duração total das campanhas era de cerca de 6 meses. Mas a maior parte do seu tempo de carreira foi passado em navios de carga por todo o mundo, mas principalmente na costa africana. 
@@ -55,9 +54,6 @@ O trabalho nos navios de investigação é em geral mais calmo do que nos navios
 
 O Capitão é um apaixonado por fotografia. Gosta de fotografar o mar (fá-lo todos os dias) e também a vida marinha, sempre que possível. 
 A experiência mais marcante que já teve no mar foi mesmo pilotar o Baía Farta, mas refere também a navegação no Mar do Norte, com gelo e temperaturas muito frias. Uma vez o seu navio encalhou no gelo e teve de ser resgatado por outro navio. Sempre que possível segue a tradição de família de não sair para o mar às sextas-feiras. 
-Durante a campanha UPFLOW o capitão reunia diariamente e sempre que necessário com a/o chefe de campanha para rever a rota, as horas previstas para as largadas de OBS, e para discutir aspectos logísticos. A equipa de ponte (capitão, imediato, piloto)  informavam regularmente acerca das condições meteorológicas e marítimas. A equipa UPFLOW era sempre bem-vinda e bem recebida na ponte. Inclusivamente, o capitão cedeu a sua cadeira à chefe de missão para a transmissão de sessões remotas com escolas (link: https://upflow-eu.github.io/experiment/blogs/outreach/ ).
+Durante a campanha UPFLOW o capitão reunia diariamente e sempre que necessário com a/o chefe de campanha para rever a rota, as horas previstas para as largadas de OBS, e para discutir aspectos logísticos. A equipa de ponte (capitão, imediato, piloto)  informavam regularmente acerca das condições meteorológicas e marítimas. A equipa UPFLOW era sempre bem-vinda e bem recebida na ponte. Inclusivamente, o capitão cedeu a sua cadeira à chefe de missão para a transmissão de [sessões remotas com escolas](https://upflow-eu.github.io/experiment/blogs/outreach/).
 
 A excelente sinergia e proximidade entre a ponte, a tripulação e a equipa científica foram factores chave para o sucesso da campanha UPFLOW.
-
-
-
