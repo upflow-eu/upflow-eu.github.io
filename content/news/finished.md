@@ -2,7 +2,7 @@
 title: "All 46 OBSs deployed!"
 date: 2021-08-09T10:16:43+01:00
 type: blogs
-author: ""
+author: [""]
 featured_image: ""
 summary: "Set course for Lisbon"
 tags: []

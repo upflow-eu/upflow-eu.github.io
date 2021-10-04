@@ -2,7 +2,7 @@
 title: "Floating UPFLOW outreach"
 date: 2021-08-08T09:57:26+02:00
 type: blogs
-author: "Ana Ferreira"
+author: ["Ana Ferreira"]
 featured_image: ""
 summary: "Making Waves"
 ---

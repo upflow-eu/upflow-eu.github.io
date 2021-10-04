@@ -2,7 +2,7 @@
 title: "Crew interviews"
 date: 2021-10-04T17:18:36+01:00
 type: blogs
-author: "Marta Neres"
+author: ["Marta Neres"]
 summary: " "
 ---
 

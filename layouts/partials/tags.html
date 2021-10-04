@@ -6,7 +6,7 @@
      </a>
    </li>
   {{ end }}
-  {{ with .Params.author }}
+  {{ range .Params.author }}
     <li class="list">
         <a href="{{ "/author/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
             More by {{ . -}}

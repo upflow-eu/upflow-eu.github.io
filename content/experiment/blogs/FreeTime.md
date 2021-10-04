@@ -2,7 +2,7 @@
 title: "Spending free time"
 date: 2021-07-20T10:43:14+01:00
 type: blogs
-author: "David Schlaphorst"
+author: ["David Schlaphorst"]
 featured_image: ""
 summary: "Not everything is work here, so what can you do on a research vessel?"
 ---

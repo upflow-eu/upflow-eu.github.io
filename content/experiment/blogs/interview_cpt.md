@@ -2,7 +2,7 @@
 title: "Meet the Crew: José Gomes, Captain (En/Pt)"
 date: 2021-08-10T11:00:01+01:00
 type: blogs
-author: "Marta Neres & Peter Makus"
+author: ["Marta Neres", "Peter Makus"]
 featured_image: ""
 summary: "Meet the Captain of the Mário Ruivo / Entrevista com o comandante do Mário Ruivo"
 ---

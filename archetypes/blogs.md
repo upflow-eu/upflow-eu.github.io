@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 type: blogs
-author: ""
+author: [""]
 featured_image: ""
 summary: ""
 tags: []

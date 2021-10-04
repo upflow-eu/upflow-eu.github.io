@@ -8,7 +8,7 @@
         {{ .Title }}
       </a>
     </h1>
-    {{ with .Params.author}}
+    {{ range .Params.author}}
         <h6 class="mt0">By {{ . }}</h6>
     {{ end }}
     <div class="nested-links f5 lh-copy nested-copy-line-height">
