@@ -8,25 +8,27 @@
         {{ .Title }}
       </a>
     </h1>
-    {{ $authors := .Params.author }}
-    {{ $len := (len $authors) }}
-    {{ if not (eq $len 0)}}
-        <h6 class="mt0">By 
-            {{ range $index, $author := $authors }} 
-                {{ if eq (add $index 1) $len }}
-                    {{ if eq $len 1 }}
-                        {{ $author }}
+    {{ if isset .Params "author" }}
+        {{ $authors := .Params.author }}
+        {{ $len := (len $authors) }}
+        {{ if not (eq $len 0)}}
+            <h6 class="mt0">By 
+                {{ range $index, $author := $authors }} 
+                    {{ if eq (add $index 1) $len }}
+                        {{ if eq $len 1 }}
+                            {{ $author }}
+                        {{ else }}
+                            & {{ $author }}
+                        {{ end }}
                     {{ else }}
-                        & {{ $author }}
-                    {{ end }}
-                {{ else }}
-                    {{ $author }}
-                    {{ if not (eq (add $index 2) $len) }}
-                        , 
+                        {{ $author }}
+                        {{ if not (eq (add $index 2) $len) }}
+                            , 
+                        {{ end }}
                     {{ end }}
                 {{ end }}
-            {{ end }}
-        </h6>
+            </h6>
+        {{ end }}
     {{ end }}
     
     <div class="nested-links f5 lh-copy nested-copy-line-height">
