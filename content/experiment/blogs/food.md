@@ -2,7 +2,7 @@
 title: "Food"
 date: 2021-07-16T08:48:37+01:00
 type: blogs
-author: "Auggie Marignier"
+author: ["Auggie Marignier"]
 featured_image: ""
 summary: "Auggie Reviews"
 tags: ["Auggie Reviews"]

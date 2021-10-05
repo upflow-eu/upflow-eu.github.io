@@ -2,7 +2,7 @@
 title: "The first instruments arrived!"
 date: 2021-07-10T16:52:57+02:00
 type: blogs
-author: "Theresa Rein"
+author: ["Theresa Rein"]
 featured_image: ""
 summary: "32 OBSs from the German DEPAS Pool finally arrived at the *RV Mário Ruvio*. Let's get prepared for the 5 weeks of expedition! "
 ---

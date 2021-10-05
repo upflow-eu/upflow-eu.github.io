@@ -2,7 +2,7 @@
 title: "Science on board"
 date: 2021-07-26T13:54:17+01:00
 type: blogs
-author: "Samaneh Baranbooei"
+author: ["Samaneh Baranbooei"]
 featured_image: ""
 summary: "We not only deploy OBSs! We also have some scientific activity."
 tags: []

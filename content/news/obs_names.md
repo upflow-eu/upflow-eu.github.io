@@ -2,7 +2,7 @@
 title: "Meet Thor, Pedro and Clunnkie"
 date: 2021-07-16T12:14:54+01:00
 type: blogs
-author: ""
+author: []
 featured_image: ""
 summary: "Our instruments have been named"
 ---

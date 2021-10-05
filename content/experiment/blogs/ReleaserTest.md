@@ -2,7 +2,7 @@
 title: "The Releasers are tested"
 date: 2021-07-15T09:27:17+02:00
 type: blogs
-author: "Theresa Rein"
+author: ["Theresa Rein"]
 featured_image: ""
 summary: "The releasers are crucial for the recovery of the OBS."
 ---

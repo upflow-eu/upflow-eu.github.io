@@ -2,7 +2,7 @@
 title: "Some musical thoughts"
 date: 2021-08-12T09:59:07+01:00
 type: blogs
-author: "Liam Noble"
+author: ["Liam Noble"]
 featured_image: ""
 summary: "During the UPFLOW 2021 deployment, UPFLOW team member David Schlaphorst regularly sent sounds from the ship to our e-artist in residence Liam Noble. Here go some initial thoughts stimulated by the cruise's sounds."
 tags: []

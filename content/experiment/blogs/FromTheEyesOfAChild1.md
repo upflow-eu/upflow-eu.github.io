@@ -2,7 +2,7 @@
 title: "From the eyes of a child"
 date: 2021-08-05T17:22:23+01:00
 type: blogs
-author: "David Schlaphorst"
+author: ["David Schlaphorst"]
 featured_image: ""
 summary: "Part 1: Morning"
 tags: ["From the Eyes of a Child"]

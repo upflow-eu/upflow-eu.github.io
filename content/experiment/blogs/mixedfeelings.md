@@ -2,7 +2,7 @@
 title: "Mixed feelings"
 date: 2021-08-03T09:57:26+02:00
 type: blogs
-author: "Ana Ferreira"
+author: ["Ana Ferreira"]
 featured_image: ""
 summary: "(or how to be a mum and a cruise chief scientist for the first time)"
 ---

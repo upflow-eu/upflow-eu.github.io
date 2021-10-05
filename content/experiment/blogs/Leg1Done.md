@@ -2,7 +2,7 @@
 title: "First leg complete!"
 date: 2021-07-28T17:29:23+01:00
 type: blogs
-author: "David Schlaphorst"
+author: ["David Schlaphorst"]
 featured_image: ""
 summary: "We have just finished the first half of the deployment expedition"
 tags: []
