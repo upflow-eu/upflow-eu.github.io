@@ -2,6 +2,7 @@
 title: "Second leg started"
 date: 2021-07-31T13:33:25+01:00
 type: blogs
+author: []
 weight: 
 summary: "After a 3-day stop in Ponta Delgada in the Azores we are continuing the deployment."
 ---

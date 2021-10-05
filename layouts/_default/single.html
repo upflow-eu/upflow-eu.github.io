@@ -11,7 +11,8 @@
       <p class="tracked">
         {{ $authors := .Params.author }}
         {{ $len := (len $authors) }}
-          By <strong>
+        {{ if not (eq $len 0)}}
+            By <strong>
             {{ range $index, $author := $authors }}
                 {{ if eq (add $index 1) $len }}
                     {{ if eq $len 1 }}
@@ -27,6 +28,7 @@
                 {{ end }}
           {{ end }}
           </strong>
+        {{ end }}
       </p>
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       {{ with .Date }}
