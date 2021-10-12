@@ -18,6 +18,8 @@ Before joining the crew of the Mário Ruivo, Sandra worked on a ferry transiting
 
 For her, the only requirement for life at sea is a little bit of flexibility and the will to adapt – both of which are no problem for Sandra. She took on her responsibilities at sea when her children were still little, which, at the time, was a little challenging. By now, however, routines have been built and work smoothly.
 
+{{< figure src="/people_photos/sandra_vincente.jpg" >}}
+
 ### Sandra Vicente, Empregada de câmaras (pt)
 
 Sandra tem 46 anos e trabalha no mar desde 2015. É a única mulher da tripulação do Mário Ruivo, mas isso para si não é um problema, até porque cresceu com os seus dois irmãos. Dá-se bem com toda a equipa, e sente que há sempre muito bom ambiente, com respeito; é como uma família. Por vezes no início das campanhas há mais distância com as novas equipas de investigação, mas acaba por se quebrar com o passar do tempo. Com a nossa equipa, a Sandra foi sempre muito atenciosa e disponível a ajudar em todas as situações. E ensinou-nos a melhor receita de bolo de cenoura de sempre!

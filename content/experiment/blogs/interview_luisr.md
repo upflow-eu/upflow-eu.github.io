@@ -23,6 +23,8 @@ Sometimes Luis spent up to 14 months at sea, without any break. In some of those
 The only habit Luis has developed over the years is to never be outside at night – for safety’s sake. He feels lucky for never having had any severe accidents at sea. This fact is not only due to luck. It is also thanks to inexplicable intuitions that Luis sometimes has. Always when something bad is about to happen, he says, he knows precisely which machine needs to be checked – apparently without any logical reason.
 During the UPFLOW deployment campaign, Luis could be found often discussing with the UPFLOW team, notably during meal times. He has shown a great curiosity about how the OBSs work and told us about his great stories.
 
+{{< figure src="/people_photos/luis_ramos.jpeg" >}}
+
 ### Luis Ramos, Superintendente (pt)
 
 Luis nasceu em Lisboa há 63 anos. Acabou o Liceu na altura do 25 de Abril (1974) e entrou no Instituto Superior Técnico, mas a nova abertura e possibilidade de viajar pela Europa sobrepôs-se aos estudos. Um dia em 1979 encontrou um amigo que o desafiou a ir estudar para Escola Náutica. Nessa altura havia bastante desemprego entre os engenheiros do Técnico mas todos os que saíam da Escola Náutica tinham emprego garantido. Isto, mais a atracção que tinha por viver junto ao mar, levaram-no a mudar para a Escola Náutica para a licenciatura de Eng. de Máquinas Marítimas. Além dessa, já fez também outra licenciatura em Eng. Electromecânica, e está neste momento a fazer mestrado em Máquinas Marítimas.

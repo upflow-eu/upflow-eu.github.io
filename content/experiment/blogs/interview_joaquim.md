@@ -22,6 +22,8 @@ For Joaquim, every day at sea is an adventure.
 
 Several members of the UPFLOW team were lucky enough to take a tour of the impressive machine room of Mário Ruivo and fully appreciate the hard “underworld” work going on to keep us sailing steadily, without which our experiment would not have been possible.
 
+{{< figure src="/people_photos/joaquim_curado_jordao.jpeg" >}}
+
 ### Joaquim Jordão, Chefe de máquinas (pt)
 
 Joaquim, mais conhecido a bordo como Jordão, nasceu na Gala, Figueira da Foz, há 67 anos. Não tinha ninguém na família ligado ao mar. Para si, o mar apareceu como uma forma de escapar à Guerra Colonial, uma realidade que tocou a muitos rapazes portugueses nos anos 60-70. Quem trabalhasse para a marinha mercante podia substituir o tempo de tropa por 6 anos de tempo de serviço no mar. Já com o curso secundário de Electricista, em 1971 entrou no curso de Máquinas da Escola Náutica. Durante o curso fez 2 meses de recruta na Base Naval do Alfeite e em 1973 começou a trabalhar no mar, na marinha mercante. Entre 1989 e 2000 trabalhou em terra, numa fábrica de transformação de madeiras em Proença-a-Nova, mas voltou ao mar quando a situação da empresa se complicou.
