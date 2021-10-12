@@ -23,7 +23,7 @@ Sometimes Luis spent up to 14 months at sea, without any break. In some of those
 The only habit Luis has developed over the years is to never be outside at night – for safety’s sake. He feels lucky for never having had any severe accidents at sea. This fact is not only due to luck. It is also thanks to inexplicable intuitions that Luis sometimes has. Always when something bad is about to happen, he says, he knows precisely which machine needs to be checked – apparently without any logical reason.
 During the UPFLOW deployment campaign, Luis could be found often discussing with the UPFLOW team, notably during meal times. He has shown a great curiosity about how the OBSs work and told us about his great stories.
 
-{{< figure src="/people_photos/luis_ramos.jpeg" >}}
+{{< figure src="/people_photos/luis_ramos.jpeg" class=”w-50“ >}}
 
 ### Luis Ramos, Superintendente (pt)
 
