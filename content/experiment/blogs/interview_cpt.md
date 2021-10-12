@@ -19,7 +19,7 @@ Hometown: Ílhavo, district of Aveiro
 
 Working at sea since 1976, as Captain since 1987.
 
-{{< figure src="/people_photos/jose_gomes.jpeg" >}}
+{{< figure src="/people_photos/jose_gomes.jpeg" class=”w-50“ >}}
 
 Being born in a fishery town, the sea has always played a central role in his life. For generations, men of his family have worked in cod fishing in Norway and Canada. For example, his father worked as an engineer on these ships.
 
