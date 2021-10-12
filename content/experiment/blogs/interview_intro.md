@@ -1,9 +1,10 @@
 ---
 title: "Crew interviews"
-date: 2021-10-04T17:18:36+01:00
+date: 2021-10-12T06:30:50+01:00
 type: blogs
 author: ["Marta Neres"]
 summary: " "
+tags: ["Meet the Crew"]
 ---
 
 Being together with the same people for many days in a row may be overwhelming. Add to that being onboard of a ship in the middle of the sea, with limited communication to the outside world, and it may be one of the best or one of the worst experiences of your life.

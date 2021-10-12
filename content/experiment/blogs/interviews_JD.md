@@ -5,6 +5,7 @@ type: blogs
 author: ["Marta Neres", "Peter Makus"]
 featured_image: ""
 summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do Mário Ruivo"
+tags: ["Meet the Crew"]
 ---
 
 **Versão portuguesa em [baixo]({{< relref "#josé-delgado-pt" >}}).**
