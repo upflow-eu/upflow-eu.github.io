@@ -1,10 +1,10 @@
 ---
-title: "Meet the Crew: Joaquim Jordão, Chief Engineer (En/Pt)"
+title: "Joaquim Jordão, Chief Engineer (En/Pt)"
 date: 2021-10-12T06:04:45+01:00
 type: blogs
 author: ["Marta Neres", "Peter Makus"]
 featured_image: ""
-summary: ""
+summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do Mário Ruivo"
 tags: []
 ---
 

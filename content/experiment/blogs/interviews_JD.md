@@ -1,10 +1,10 @@
 ---
-title: "Meet the Crew: José Delgado, Able Seaman (En/Pt)"
+title: "José Delgado, Able Seaman (En/Pt)"
 date: 2021-08-08T17:15:01+01:00
 type: blogs
 author: ["Marta Neres", "Peter Makus"]
 featured_image: ""
-summary: "Interview with José Delgado / Entrevista com José Delgado"
+summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do Mário Ruivo"
 ---
 
 **Versão portuguesa em [baixo]({{< relref "#josé-delgado-pt" >}}).**

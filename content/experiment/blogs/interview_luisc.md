@@ -1,10 +1,10 @@
 ---
-title: "Meet the Crew: Luis Cunha, Able Seaman (En/Pt)"
+title: "Luis Cunha, Able Seaman (En/Pt)"
 date: 2021-10-12T05:49:06+01:00
 type: blogs
 author: ["Marta Neres", "Peter Makus"]
 featured_image: ""
-summary: ""
+summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do Mário Ruivo"
 tags: []
 ---
 
