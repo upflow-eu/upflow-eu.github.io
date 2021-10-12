@@ -8,7 +8,9 @@ summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do M
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#josé-ribeiro-pt" >}}).**
+**Versão portuguesa em [baixo]({{< relref "#josé-ribeiro-cozinheiro-pt" >}}).**
+
+### José Ribeiro, Cook (en)
 
 On- and offboard everyone knows him as Juary, after a football player from the 1980s. Our cook was born in Beira, Mozambique, 55 years ago and came to Portugal in 1975, aged 6. While the rest of the family went to Elvas, Juary stayed in Nazaré to live with his uncles.
 
@@ -26,7 +28,7 @@ He always pays close attention to every detail concerning both the kitchen and l
 
 Juary has been married for 32 years and always refers to his family in a very affectionate way.  However, at sea, he does not feel the need to be in constant contact. That is, as long as he can be sure that everything is in order. Thinking about the future, he says: "Once my grandchildren have arrived, "I will want to be with them and enjoy life".
 
-### José Ribeiro (pt)
+### José Ribeiro, Cozinheiro (pt)
 
 Dentro e fora do navio todos o conhecem como Juary, devido a um jogador de futebol dos anos 80. O nosso cozinheiro nasceu na Beira, Moçambique, há 55 anos e veio para Portugal em 1975, com 6 anos. O resto da família foi para Elvas, mas Juary ficou a viver com os tios na Nazaré. Desde esta altura vem a amizade com o nosso marinheiro Luis Cunha. Apesar de viver numa das vilas de Portugal com maior tradição marítima, durante vários anos a ligação ao mar esteve quebrada: quando era pequeno uma vez quase se afogou, e foi um amigo que o salvou.
 

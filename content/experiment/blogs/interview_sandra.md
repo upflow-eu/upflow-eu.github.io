@@ -8,7 +8,9 @@ summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do M
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#sandra-vicente-pt" >}}).**
+**Versão portuguesa em [baixo]({{< relref "#sandra-vicente-empregada-de-câmaras-pt" >}}).**
+
+### Sandra Vicente, Stewardess (en)
 
 Working at sea since 2015, Sandra is 46 years old. Sandra is the only woman in the crew but, for her, this is not much of a problem as she grew up with her two brothers. Sandra gets along very well with the rest of the crew. To her, the crew is like a family, in which the environment is always light and respectful. Sandra managed very quickly to break the initial ice between the crew and the new research teams that regularly rotate. For us, Sandra is always very attentive, available, and keen to help wherever she can. Also, she taught us an excellent recipe for carrot cake!
 
@@ -16,7 +18,7 @@ Before joining the crew of the Mário Ruivo, Sandra worked on a ferry transiting
 
 For her, the only requirement for life at sea is a little bit of flexibility and the will to adapt – both of which are no problem for Sandra. She took on her responsibilities at sea when her children were still little, which, at the time, was a little challenging. By now, however, routines have been built and work smoothly.
 
-### Sandra Vicente (pt)
+### Sandra Vicente, Empregada de câmaras (pt)
 
 Sandra tem 46 anos e trabalha no mar desde 2015. É a única mulher da tripulação do Mário Ruivo, mas isso para si não é um problema, até porque cresceu com os seus dois irmãos. Dá-se bem com toda a equipa, e sente que há sempre muito bom ambiente, com respeito; é como uma família. Por vezes no início das campanhas há mais distância com as novas equipas de investigação, mas acaba por se quebrar com o passar do tempo. Com a nossa equipa, a Sandra foi sempre muito atenciosa e disponível a ajudar em todas as situações. E ensinou-nos a melhor receita de bolo de cenoura de sempre!
 

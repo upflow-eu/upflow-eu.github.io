@@ -8,9 +8,9 @@ summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do M
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#luis-cunha-pt" >}}).**
+**Versão portuguesa em [baixo]({{< relref "#luis-cunha-marinheiro-pt" >}}).**
 
-### Luis Cunha
+### Luis Cunha, Able Seaman (en)
 
 Luis Cunha is one of the Mário Ruivo’s able seaman. He was born 53 years ago in Nazaré, one of the most iconic fishing towns in Portugal. Therefore, he developed a connection and affection to the sea already at a young age. When he was little, the fishing boats were pulled on land by cows – a task that he eagerly assisted, along with his father and grandfather. His two biggest passions originated from those times – for the ocean and for farm animals – which have accompanied him ever since.
 
@@ -27,7 +27,7 @@ In his cabin, he has got his own proper, little religious altar. When not at sea
 
 When mentioning his family, Luis’ expression changes  - shining with pride. Turning a little melancholic, he tells us how much he regrets the costs of going to sea. That is, not being with his family and not having seen his children grow up. But whenever he is on land, he is trying his best to make up for his absence. Then, he enjoys every moment with his children and grandchildren, who are “always with him in the depths of his heart”.
 
-### Luis Cunha (pt)
+### Luis Cunha, Marinheiro (pt)
 
 Luis Cunha é um dos marinheiros residentes do navio Mário Ruivo. Nasceu na Nazaré, uma das mais icónicas vilas piscatórias de Portugal, há 53 anos. A ligação ao mar vem desde cedo. Quando era pequeno, os barcos de pesca eram trazidos praia acima por bois e Luis acompanhava o pai e o avô neste trabalho, o que fez crescer duas das suas paixões: o mar e o gado, que manteve sempre.
 

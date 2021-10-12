@@ -8,9 +8,9 @@ summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do M
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#josé-delgado-pt" >}}).**
+**Versão portuguesa em [baixo]({{< relref "#josé-delgado-marinheiro-pt" >}}).**
 
-### José Delgado
+### José Delgado, Able Seaman (en)
 
 Jośe Delgado is one of the able seamen on board the Mário Ruivo and could closely follow her evolution over the years – “Always for the better”. Born in São Vicente, Cabo Verde, and 58 years old, he moved to Portugal in 2006. Already as a boy, he developed a passion for the sea when drawing boats and the ocean.
 After fourth grade and until he turned 13, he studied to become a carpenter. At 18, he decided to go to the sea where he has been working until today.
@@ -21,7 +21,7 @@ As a religious man, José’s thoughts are turning to God before each voyage: �
 
 {{< figure src="/blogs/Delgado_crane.jpg">}}
 
-### José Delgado (pt)
+### José Delgado, Marinheiro (pt)
 
 José Delgado é um dos marinheiros residentes do navio Mário Ruivo e tem acompanhado a sua evolução, “sempre para melhor”. Nasceu em São Vicente, Cabo Verde, há 58 anos e está em Portugal desde 2006. A paixão pelo mar vem desde pequeno, quando passava tempo a desenhar barcos e o mar. 
 Depois da 4ª classe estudou oficina de carpintaria, até aos 13 anos, e aos 18 começou a trabalhar no mar, até hoje! 

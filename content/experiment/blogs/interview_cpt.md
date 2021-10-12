@@ -8,11 +8,10 @@ summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do M
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#comandante-josé-gomes" >}}).**
+**Versão portuguesa em [baixo]({{< relref "#comandante-josé-gomes-pt" >}}).**
 
-We went ahead and interviewed some of the crew members. This is the first interview out of the series with Captain José Gomes.
 
-### Captain José Gomes ###
+### Captain José Gomes (en)
 
 Age: 67
 
@@ -42,7 +41,7 @@ During the UPFLOW experiment, Ana and Frederik had daily briefings with captain 
 {{< figure src="/blogs/ana_on_bridge.jpeg" caption="Ana having a zoom call with a school in the UK." >}}
 
 
-### Comandante José Gomes ###
+### Comandante José Gomes (pt)
 
 O nosso capitão nasceu em Ílhavo, distrito de Aveiro, há 67 anos. Trabalha no mar desde 1976, como capitão desde 1987.
 Tendo nascido numa vila piscatória, o mar sempre teve um papel central na sua vida. Desde há várias gerações os homens da sua família trabalhavam na pesca do bacalhau na Noruega e no Canadá. O seu pai, por exemplo, trabalhou nesses navios como chefe de máquinas.

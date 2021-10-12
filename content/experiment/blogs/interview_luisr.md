@@ -8,7 +8,9 @@ summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do M
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#luis-ramos-pt" >}}).**
+**Versão portuguesa em [baixo]({{< relref "#luis-ramos-superintendente-pt" >}}).**
+
+### Luis Ramos, Superintendent (en)
 
 Luis was born in Lisbon 63 years ago.  He finished high school and enrolled in the Instituto Superior Técnico (Technical University), but the new possibility to travel through Europe influenced his studies. One day in 1979, a friend told him that he planned to study at the Marine School. At this time, unemployment among graduated engineers was high, whereas everyone leaving the Marine School was guaranteed a position. This and the idea of leading a life at sea made him change to the Marine School to study Marine Mechanical Engineering. In addition to that, Luis also graduated in Electrical Engineering. Even now, he is doing his Master in Marine Engineering.
 
@@ -21,7 +23,7 @@ Sometimes Luis spent up to 14 months at sea, without any break. In some of those
 The only habit Luis has developed over the years is to never be outside at night – for safety’s sake. He feels lucky for never having had any severe accidents at sea. This fact is not only due to luck. It is also thanks to inexplicable intuitions that Luis sometimes has. Always when something bad is about to happen, he says, he knows precisely which machine needs to be checked – apparently without any logical reason.
 During the UPFLOW deployment campaign, Luis could be found often discussing with the UPFLOW team, notably during meal times. He has shown a great curiosity about how the OBSs work and told us about his great stories.
 
-### Luis Ramos (pt)
+### Luis Ramos, Superintendente (pt)
 
 Luis nasceu em Lisboa há 63 anos. Acabou o Liceu na altura do 25 de Abril (1974) e entrou no Instituto Superior Técnico, mas a nova abertura e possibilidade de viajar pela Europa sobrepôs-se aos estudos. Um dia em 1979 encontrou um amigo que o desafiou a ir estudar para Escola Náutica. Nessa altura havia bastante desemprego entre os engenheiros do Técnico mas todos os que saíam da Escola Náutica tinham emprego garantido. Isto, mais a atracção que tinha por viver junto ao mar, levaram-no a mudar para a Escola Náutica para a licenciatura de Eng. de Máquinas Marítimas. Além dessa, já fez também outra licenciatura em Eng. Electromecânica, e está neste momento a fazer mestrado em Máquinas Marítimas.
 
