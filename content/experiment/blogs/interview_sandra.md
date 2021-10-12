@@ -8,7 +8,7 @@ summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do M
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#sandra-vicente-empregada-de-câmaras-pt" >}}).**
+**Versão portuguesa em [baixo]({{< relref "#sandra-vicente-empregada-de-câmaras-pt" class=”w-50“ >}}).**
 
 ### Sandra Vicente, Stewardess (en)
 
