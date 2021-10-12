@@ -27,6 +27,8 @@ In his cabin, he has got his own proper, little religious altar. When not at sea
 
 When mentioning his family, Luis’ expression changes  - shining with pride. Turning a little melancholic, he tells us how much he regrets the costs of going to sea. That is, not being with his family and not having seen his children grow up. But whenever he is on land, he is trying his best to make up for his absence. Then, he enjoys every moment with his children and grandchildren, who are “always with him in the depths of his heart”.
 
+{{< figure src="/people_photos/luis_c_interview.jpg" >}}
+
 ### Luis Cunha, Marinheiro (pt)
 
 Luis Cunha é um dos marinheiros residentes do navio Mário Ruivo. Nasceu na Nazaré, uma das mais icónicas vilas piscatórias de Portugal, há 53 anos. A ligação ao mar vem desde cedo. Quando era pequeno, os barcos de pesca eram trazidos praia acima por bois e Luis acompanhava o pai e o avô neste trabalho, o que fez crescer duas das suas paixões: o mar e o gado, que manteve sempre.
