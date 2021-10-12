@@ -3,7 +3,7 @@ title: "Crew interviews"
 date: 2021-10-12T06:30:50+01:00
 type: blogs
 author: ["Marta Neres"]
-summary: " "
+summary: "We went ahead and interviewed some of the crew members!"
 tags: ["Meet the Crew"]
 ---
 
@@ -12,7 +12,4 @@ I’ve been participating in scientific cruises since 2014, onboard different sh
 
 Usually, in each cruise you meet several new people, each one with his own life path and motivation, and it’s always enriching to chat and get to know some of them better. During the UPFLOW cruise we interviewed some members of the crew to know some of the stories of these crucial people, without whom our research could not be conducted. It was a huge pleasure to talk to each of them and share the laughs and tears that are marks of the joy, sadness, motivation and saudade that are behind each action taken at sea.
 
-[Captain José Gomes interview]({{< ref "experiment/blogs/interview_cpt.md" >}})
-
-[Able seaman José Delgado interview]({{< ref "experiment/blogs/interviews_JD.md" >}})
-
+Click below for the whole series!
