@@ -22,7 +22,7 @@ For Joaquim, every day at sea is an adventure.
 
 Several members of the UPFLOW team were lucky enough to take a tour of the impressive machine room of Mário Ruivo and fully appreciate the hard “underworld” work going on to keep us sailing steadily, without which our experiment would not have been possible.
 
-{{< figure src="/people_photos/joaquim_curado_jordao.jpeg" >}}
+{{< figure src="/people_photos/joaquim_curado_jordao.jpeg" class=”w-50“ >}}
 
 ### Joaquim Jordão, Chefe de máquinas (pt)
 
