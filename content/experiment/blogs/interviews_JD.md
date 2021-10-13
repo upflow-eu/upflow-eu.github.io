@@ -19,7 +19,7 @@ From his time working on cargo vessels, he distinctly remembers two critical inc
 For us (the UPFLOW team), José Delgado has been not only a key operator of the crane – which was crucial for the releaser tests and deployment of instruments – but also a patient and resourceful teacher, always eager to share his knowledge, notably about knots! Himself, he learned most of this art from a Chief Mate, José Farias, during times spent on the bridge.
 As a religious man, José’s thoughts are turning to God before each voyage: “May he bring us safely back on land, just as he takes us to sea.”
 
-{{< figure src="/blogs/Delgado_crane.jpg">}}
+{{< figure src="/blogs/Delgado_crane.jpg" width="800px" >}}
 
 ### José Delgado, Marinheiro (pt)
 
