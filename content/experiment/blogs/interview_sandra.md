@@ -18,7 +18,7 @@ Before joining the crew of the Mário Ruivo, Sandra worked on a ferry transiting
 
 For her, the only requirement for life at sea is a little bit of flexibility and the will to adapt – both of which are no problem for Sandra. She took on her responsibilities at sea when her children were still little, which, at the time, was a little challenging. By now, however, routines have been built and work smoothly.
 
-{{< figure src="/people_photos/sandra_vincente.jpg" >}}
+{{< figure src="/people_photos/sandra_vincente.jpg" class="w-50 text-center" >}}
 
 ### Sandra Vicente, Empregada de câmaras (pt)
 
