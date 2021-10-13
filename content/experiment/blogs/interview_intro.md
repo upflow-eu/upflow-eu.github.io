@@ -7,7 +7,7 @@ summary: "We went ahead and interviewed some of the crew members!"
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#Entrevistas à tripulação" >}}).** 
+**Versão portuguesa em [baixo]({{< relref "#entrevistas-à-tripulação" >}}).** 
 
 ### Crew interviews
 
