@@ -28,7 +28,7 @@ He always pays close attention to every detail concerning both the kitchen and l
 
 Juary has been married for 32 years and always refers to his family in a very affectionate way. However, at sea, he does not feel the need to be in constant contact. That is, as long as he can be sure that everything is in order. Thinking about the future, he says: "Once my grandchildren have arrived, "I will want to be with them and enjoy life".
 
-{{< figure src="/people_photos/jose_r_interview.jpg" >}}
+{{< figure src="/people_photos/jose_r_interview.jpg" width="800px" >}}
 
 
 ### José Ribeiro, Cozinheiro (pt)
