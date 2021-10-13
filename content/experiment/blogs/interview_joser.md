@@ -18,7 +18,7 @@ His friendship with our seaman Luis Cunha dates back to those days. Luis integra
 
 For many years, he worked in some of the many restaurants and bars in Nazaré. However, after a while, he grew tired of the nightlife. Meanwhile, he had taken two cooking courses and many friends suggested he could work at sea. In 2002, when his children were already 9 and 10 years old, he felt it was time to take on that challenge.
 
-Initially, he worked three years on the ferries between Hull and Zeebrugge, in turns - two months at sea and one on land. He then worked on a Norwegian research vessel, which mission was to monitor environmental conditions associated with oil exploration pipelines. Despite being the cook on board, Juary was always interested in the operations and research methods.
+Initially, he worked three years on the ferries between Hull and Zeebrugge, in turns - two months at sea and one on land. He then worked on a Norwegian research vessel whose mission was to monitor environmental conditions associated with oil exploration pipelines. Despite being the cook on board, Juary was always interested in the operations and research methods.
 
 In addition, he worked for ten years on cargo ships transporting goods between the Azores and mainland Portugal in a family-like work environment. Due to illness, he had to leave for two years. It was then that his friend Luis Cunha recommended him for the Mário Ruivo team. Now, Juary has been working on the Mário Ruivo since May.
 
