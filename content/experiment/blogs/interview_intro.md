@@ -7,7 +7,9 @@ summary: "We went ahead and interviewed some of the crew members!"
 tags: ["Meet the Crew"]
 ---
 
-**Versão portuguesa em [baixo]({{< relref "#pt" >}}).**  ?????
+**Versão portuguesa em [baixo]({{< relref "#Entrevistas à tripulação" >}}).** 
+
+### Crew interviews
 
 Being together with the same people for many days in a row may be overwhelming. Add to that being onboard of a ship in the middle of the sea, with limited communication to the outside world, and it may be one of the best or one of the worst experiences of your life.
 
@@ -21,7 +23,7 @@ After these interviews and many conversations with other seamen through the year
 Click below for the whole series!
 
 
-### pt
+### Entrevistas à tripulação
 
 Estar vários dias seguidos num espaço confinado, sempre com as mesmas pessoas, pode ser assoberbante. A bordo de um navio no meio do mar, com comunicações muito limitadas, pode mesmo tornar-se numa das melhores ou das piores experiências da nossa vida... 
 
