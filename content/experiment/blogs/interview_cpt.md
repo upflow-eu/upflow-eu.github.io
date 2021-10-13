@@ -31,7 +31,7 @@ Old family traditions dictate that one does not leave to sea on Fridays.
 
 To him, the most memorable experience was piloting the Baía Farta . Second to this is sailing in North Europe and experiencing the sea ice and the extremely cold temperatures. Once their vessel got stuck in the ice so that another ship had to come to rescue them.
 
-{{< figure src="/people_photos/jose_gomes.jpeg" >}}
+{{< figure src="/people_photos/jose_gomes.jpeg" class="w-50 text-center" >}}
 
 During the UPFLOW experiment, Ana and Frederik had daily briefings with captain José Gomes to revise the route and deployment times as needed and discuss any logistics aspects. He and the bridge team kept us informed about the weather forecast and sea state conditions, providing us with regular data logs. Importantly, the UPFLOW team was always welcome to the bridge at any time and the captain even kindly offered his chair to the chief scientist to run the project’s [live zoom sessions with schools](https://upflow-eu.github.io/experiment/blogs/outreach/)! The excellent synergy and close relationship between the bridge, the crew and the UPFLOW team were key to the deployment’s success.
 
