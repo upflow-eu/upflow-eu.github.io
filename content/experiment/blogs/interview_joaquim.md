@@ -16,7 +16,7 @@ Joaquim or Jordão, as the crew calls him, was born in Gala, Figueira da Foz, 67
 
 Of his family, he is the first to go to sea. For him, going to the sea was a chance to escape the cruel reality of the Portuguese colonial war, in which many young men served during the 60s and 70s. Whoever worked on a cargo ship could substitute the six-year military service by an equally long period at sea. 
 
-Already in 1971, when studying to become an Electrician, he took a mechanical engineering course in the marine school. Finally, in 1973, he started to work on commercial vessels. Later in 1989, he accepted an offer to work in a factory, which processed wood logs. However, the company situation became more difficult and he decided to work at sea again.
+Already in 1971, after studying to become an Electrician, he took a Mechanical Engineering course in the Nautical School. Finally, in 1973, he started to work on commercial vessels. Later in 1989, he accepted an offer to work in a factory, which processed wood logs. However, the company situation became more difficult and he decided to work at sea again.
 
 In his many years as a seaman, Joaquim worked in all kinds of ships: oil exploration vessels, chemical cargo, fresh goods, container vessels, passenger ships, and research vessels – including the "Baía Farta" where he as well served under our Captain José Gomes. For all of those ships, the core responsibilities as an engineer are essentially the same. Thus, to him, every new vessel always feels like the “right and best place to be”.
 
