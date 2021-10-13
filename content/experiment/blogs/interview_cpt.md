@@ -13,7 +13,7 @@ tags: ["Meet the Crew"]
 
 ### Captain José Gomes (en)
 
-Our captain was born in Ílhavo, Aveiro district, 67 years ago. We works at sea since 1976, as a captain since 1987. 
+Our captain was born in Ílhavo, Aveiro district, 67 years ago. He has been working at sea since 1976, as a captain since 1987. 
 
 Being born in a fishery town, the sea has always played a central role in his life. For generations, men of his family have worked in cod fishing in Norway and Canada. For example, his father worked as an engineer on these ships.
 
