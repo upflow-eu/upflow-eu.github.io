@@ -4,7 +4,7 @@ date: 2021-08-10T11:00:01+01:00
 type: blogs
 author: ["Marta Neres", "Peter Makus"]
 featured_image: ""
-summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do Mário Ruivo"
+summary: "Meet the Crew of the RV Mário Ruivo / Entrevista com a tripulação do NI Mário Ruivo"
 tags: ["Meet the Crew"]
 ---
 
@@ -19,9 +19,9 @@ Being born in a fishery town, the sea has always played a central role in his li
 
 Captain Gomes studied for four years in the Nautical School Infante Dom Henrique in Paço de Arcos. Before being a Captain, in the 1980s, he worked as Chief Mate on cod fishery ships in Canada and Norway. Depending on the sea conditions, the transit from Portugal to Canada could take between 11 to 23 days. However, the total cruise time was about six months. Captain José Gomes spent most of his career on cargo vessels around the world, especially around Africa.
 
-After retiring, the Captain has never lost his passion for the sea and worked on vessels affiliated to IPMA (Instituto Portugues do Mar e da Atmosfera – i.e., the Portuguese Institute for Sea and Atmosphere). Among these are the Noruega and the Mário Ruivo (our vessel). Additionally, he was the first Captain of the brand new, Angolan fisheries research vessel “Baía Farta”. The Captain referred to her as "the big toy” as she was equipped with all kinds of modern and expensive scientific tools.
+After retiring, the Captain has never lost his passion for the sea and worked on research vessels affiliated to IPMA (Instituto Portugues do Mar e da Atmosfera – i.e., the Portuguese Institute for Sea and Atmosphere). Among these are the RV Noruega and the RV Mário Ruivo (our vessel). Additionally, he was the first Captain of the brand new, Angolan fisheries research vessel “Baía Farta”. The Captain referred to her as "the big toy” as she was equipped with all kinds of modern and expensive scientific tools.
 
-The Captain thinks of the Mário Ruivo as an old lady. But just like an old lady, she has her particularities and character, which can make it hard to pilot her at times. Refurbishing and renovating her took years, but, in José’s opinion, it was well worth it as the vessel is working well and reliably now.
+The Captain thinks of the RV Mário Ruivo as an old lady. But just like an old lady, she has her particularities and character, which can make it hard to pilot her at times. Refurbishing and renovating her took years, but, in José’s opinion, it was well worth it as the vessel is working well and reliably now.
 
 Work on a research vessel provides entirely different goals and perspectives compared to the work in cargo ships. Everyday work is often more diverse. For example, the engine often needs to be turned off during experiments, something they never did on cargo ships. All in all, work tends to be less stressful. 
 
@@ -46,9 +46,9 @@ Tendo nascido numa vila piscatória, o mar sempre teve um papel central na sua v
 
 Após o secundário estudou na Escola Náutica Infante Dom Henrique em Paço de Arcos durante quatro anos. Começou então por trabalhar como Imediato na pesca do bacalhau no Canadá e na Noruega. Dependendo das condições do mar, o trânsito entre Portugal e o Canadá podia demorar entre 11 e 23 dias, e a duração total das campanhas era de cerca de 6 meses. Mas a maior parte do seu tempo de carreira foi passado em navios de carga por todo o mundo, mas principalmente na costa africana. 
 
-Mesmo depois de reformado, o Comandante nunca perdeu a sua paixão pelo mar. Foi então que começou a comandar os navios do IPMA, primeiro o Noruega e agora o nosso  Mário Ruivo. Foi ainda o primeiro comandante do Baía Farta, um navio de investigação de pescas de Angola completamente novo e equipado com equipamento de ponta, a que chama “the big toy”.
+Mesmo depois de reformado, o Comandante nunca perdeu a sua paixão pelo mar. Foi então que começou a comandar os navios de investigação do IPMA, primeiro o NI Noruega e agora o nosso NI Mário Ruivo. Foi ainda o primeiro comandante do Baía Farta, um navio de investigação de pescas de Angola completamente novo e equipado com equipamento de ponta, a que chama “the big toy”.
 
-Para si, o Mário Ruivo é uma “senhora mais velha”: tens as suas particularidades e carácter, que o tornam desafiante. Depois de vários anos em recuperação e melhoramento, considera que agora está em boa forma, a trabalhar muito bem. 
+Para si, o NI Mário Ruivo é uma “senhora mais velha”: tens as suas particularidades e carácter, que o tornam desafiante. Depois de vários anos em recuperação e melhoramento, considera que agora está em boa forma, a trabalhar muito bem. 
 O trabalho nos navios de investigação é em geral mais calmo do que nos navios de carga, e também mais desafiante. Os objectivos e perspectivas são mais diversos; por exemplo as manobras de máquina durante os trabalhos em estações. 
 
 O Comandante é um apaixonado por fotografia. Gosta de fotografar o mar (fá-lo todos os dias) e também a vida marinha, sempre que possível. 

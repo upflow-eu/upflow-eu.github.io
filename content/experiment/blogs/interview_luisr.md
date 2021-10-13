@@ -4,7 +4,7 @@ date: 2021-10-12T06:10:31+01:00
 type: blogs
 author: ["Marta Neres", "Peter Makus"]
 featured_image: ""
-summary: "Meet the Crew of the Mário Ruivo / Entrevista com a tripulação do Mário Ruivo"
+summary: "Meet the Crew of the RV Mário Ruivo / Entrevista com a tripulação do  NI Mário Ruivo"
 tags: ["Meet the Crew"]
 ---
 
@@ -16,7 +16,7 @@ Luis was born in Lisbon 63 years ago.  He finished high school and enrolled in t
 
 1983 was the year in which he finished his studies and began working at sea. It was also the year in which he got married. He worked on oil vessels, cargo vessels, and, finally, on cruise ships. On the oil vessels, they lived a life in isolation, not going on land even once during a journey. Although the situation was not as extreme, on the cargo vessels one would still spend most of their life among the crew. For Luis, the time spent on cruise ships was undoubtedly the most enjoyable - the life on board is more social due to the constantly arriving new faces.
 
-According to Luis, the Mário Ruivo is like a mini cruise ship - very lively and with lots of social interactions between the different teams. Here, Luis feels “like a fish in the water” (i.e., just at home). Now that the ship starts going on regular expeditions and journeys, he is sure that she has great potential, but it is crucial not to stall. Luis says: “I only really see what the vessel needs when she sails”.
+According to Luis, the RV Mário Ruivo is like a mini cruise ship - very lively and with lots of social interactions between the different teams. Here, Luis feels “like a fish in the water” (i.e., just at home). Now that the ship starts going on regular expeditions and journeys, he is sure that she has great potential, but it is crucial not to stall. Luis says: “I only really see what the vessel needs when she sails”.
 
 Sometimes Luis spent up to 14 months at sea, without any break. In some of those journeys, Luis’ wife accompanied him. However, when Luis’ son was born, he decided to return to the land to see him grow up. The following 24 years, until 2009, Luis worked on land. Seventeen of these, he was employed in the steel industries. After all this time, Luis’ love for the sea did never cease. Eventually, he decided to return. Ever since, he says, the communication with his family has been much easier than before. Now, it is possible to stay in touch and talk every day. By now, because his duties are more management than operational, he spends more time on land than at sea.
 
@@ -31,7 +31,7 @@ Luis nasceu em Lisboa há 63 anos. Acabou o Liceu na altura do 25 de Abril (1974
 
 Começou a trabalhar no mar como oficial de máquinas em 1983, ano em que também se casou. Começou em petroleiros e depois em cargueiros e finalmente em paquetes, incluindo o famoso paquete Funchal. Nos petroleiros viviam completamente isolados, praticamente sem ir a terra durante toda a viagem. Nos cargueiros já havia mais passagem por terra, mas a vida no mar continuava a ser apenas passada entre a tripulação. Mas foi sem dúvida nos paquetes que mais gostou de trabalhar, porque podia também tirar partido da muita vida que havia a bordo.
 
-Para si o Mário Ruivo acaba por ser um mini-paquete, também com bastante vida e interacção entre as várias equipas. Aqui sente-se como um peixe na água! Agora que o navio começou a navegar mais frequentemente tem a certeza de que tem muito potencial, mas é fundamental que não esteja parado – só a navegar regularmente se percebe o que é preciso.
+Para si o NI Mário Ruivo acaba por ser um mini-paquete, também com bastante vida e interacção entre as várias equipas. Aqui sente-se como um peixe na água! Agora que o navio começou a navegar mais frequentemente tem a certeza de que tem muito potencial, mas é fundamental que não esteja parado – só a navegar regularmente se percebe o que é preciso.
 
 Chegou a passar 14 meses seguidos no mar, e em algumas das viagens de paquete a mulher chegou a acompanhá-lo. Mas depois do nascimento do filho decidiu voltar a terra para o ver crescer. Trabalhou então na siderurgia durante 17 anos entre 1985 e 2009, até que o "bicho do mar" voltou a surgir e resolver voltar, apesar de estar bem empregado. Adora a vida no mar, e com as comunicações facilitadas, pode falar todos os dias com a família quando está embarcado. No entanto, com a sua função actual, mais de gestão do que de operação do navio, passa grande parte do tempo em terra.
 
