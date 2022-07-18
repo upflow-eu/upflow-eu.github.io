@@ -1,11 +1,9 @@
 ---
-title: "Maria Tsekhmistrenko"
-date: 2022-07-18T11:12:33+01:00
-weight: 
-summary: ""
+title: "Maria Tsekmistrenko"
+date: 2022-07-18T11:33:28+01:00
+weight: 1
+summary: "Postdoctoral Researcher"
 role: "researcher"
-profile_image: "/people_photos/ana_ferreira.jpg"
+profile_image: "/logo_UP1-3.png"
 website: ""
 ---
-
-Ana studies deep Earth structure and earthquake source processes to obtain an integrated understanding of the processes controlling the dynamic behaviour of our planet from the surface down to the lowermost mantle.
