@@ -7,4 +7,4 @@ role: "science"
 profile_image: "/people_photos/jose_luis_duarte.jpeg"
 website: ""
 ---
-2021
+2021 & 2022

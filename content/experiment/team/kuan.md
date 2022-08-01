@@ -1,5 +1,5 @@
 ---
-title: "Kuan Yu"
+title: "Kuan-Yu"
 date: 2022-08-01T10:43:47+01:00
 weight: 
 summary: "Scientist, Outreach & Communications"
