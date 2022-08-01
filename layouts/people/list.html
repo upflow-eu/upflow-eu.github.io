@@ -17,6 +17,18 @@
           {{ end }}
         </section>
     </div>
+    <div>
+        <h1 class="ph5">Researchers</h1>
+        <section class="flex-ns flex-wrap justify-around">
+          {{ range .Pages.ByWeight }}
+            {{ if eq .Params.role "researcher"}}
+                <div class="relative mv2 bg-white" style="width:45%">
+                {{- partial "summary_people.html" . -}}
+                </div>
+            {{ end }}
+          {{ end }}
+        </section>
+    </div>
     {{- template "_internal/pagination.html" . -}}
   </article>
 {{ end }}

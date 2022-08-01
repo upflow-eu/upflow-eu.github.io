@@ -2,10 +2,10 @@
 title: "Videos"
 date: 
 weight: 
-summary: "A collection of YouTube videos taken during the UPFLOW OBS deployment expedition."
+summary: "A collection of YouTube videos taken during the UPFLOW OBS expedition."
 ---
 
-Here you can find our collection of videos taken during the UPFLOW OBS deployment expedition in the Atlantic. They are listed in chronological order.
+Here you can find our collection of videos taken during the UPFLOW OBS deployment and recovery expeditions in the Atlantic. They are listed in chronological order.
 
 ---
 
