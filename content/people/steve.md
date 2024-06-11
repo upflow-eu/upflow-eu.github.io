@@ -4,7 +4,7 @@ date: 2022-07-18T11:33:45+01:00
 weight: 
 summary: "Postdoctoral Research Fellow"
 role: "researcher"
-profile_image: "/people_photos/katrina_harris.jpg"
+profile_image: "/people_photos/stephen_hicks.jpg"
 website: ""
 ---
 
