@@ -2,7 +2,7 @@
 title: "Auggie Marignier"
 date: 2024-06-11T08:17:08+10:00
 weight: 
-summary: "Postdoctoral Researcher"
+summary: "Postdoctoral Researcher (UCL; now at ANU)"
 role: "researcher"
 profile_image: "/people_photos/auggie.jpeg"
 website: "https://auggiemarignier.github.io"
