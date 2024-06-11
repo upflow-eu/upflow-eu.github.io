@@ -2,7 +2,7 @@
 title: "Will Sturgeon"
 date: 2022-07-18T11:33:45+01:00
 weight: 3
-summary: "Postdoctoral Researcher"
+summary: "Postdoctoral Researcher (UCL)"
 role: "researcher"
 profile_image: "/people_photos/will_sturgeon.jpg"
 website: ""
