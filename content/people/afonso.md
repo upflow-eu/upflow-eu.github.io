@@ -2,7 +2,7 @@
 title: "Afonso Loureiro"
 date: 2024-06-11T08:20:06+10:00
 weight: 
-summary: "Postdoctoral Researcher"
+summary: "Postdoctoral Researcher (Instituto Dom Luiz)"
 role: "researcher"
 profile_image: "/people_photos/afonso_loureiro.jpeg"
 website: ""
