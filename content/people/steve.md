@@ -8,4 +8,6 @@ profile_image: "/people_photos/stephen_hicks.jpg"
 website: ""
 ---
 
-Stephen is a multi-displinary seismologist, involved in a wide range of problems from lithosphere and upper mantle imaging, earthquake source processes, induced seismicity, and environmental seismology. In the UPFLOW project, Stephen's main work is focussed on observable design for improved imaging of mantle upwellings.
+Stephen is a multi-displinary seismologist, involved in a wide range of problems from lithosphere and upper mantle imaging, earthquake source processes, induced seismicity, and environmental seismology.
+
+In the UPFLOW project, Stephen's main work is focussed on observable design for improved imaging of mantle upwellings.
