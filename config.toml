@@ -13,6 +13,10 @@ youtube = "https://www.youtube.com/channel/UCa3wuhPfmAeYsNd73rSI8gA/about"
 github = "https://github.com/upflow-eu"
 custom_css = ["css/custom.css"]
 recent_posts_number = 5
+disqusShortname = ""
+
+[params.social]
+twitter = "upfloweu"
 
 [taxonomies]
 author = "author"
