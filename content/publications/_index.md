@@ -3,6 +3,22 @@ title: "Publications"
 date: 2021-06-23T12:37:47+01:00
 weight: 4
 ---
+Hicks, S.P., Gonzalez, P.J., Lomax, A., Ferreira, A.M., Ramalho, R.S., Mitchell, N.C., Silveira, G., Dias, N.A., Fontiela, J., Fernandes, R. and Custódio, S., 2026. [Fault-mediated magma propagation and triggered seismicity revealed by the 2022 São Jorge Azores unrest](https://dx.doi.org/10.1038/s41467-026-71668-6). Nature Communications, 17(1), p.3531. doi:10.1038/s41467-026-71668-6
+
+Ferreira, A.M.G., 2026. [Charting the mantle](https://dx.doi.org/10.1093/astrogeo/atag007). Astronomy & Geophysics, 67(2), pp.2-35. doi:10.1093/astrogeo/atag007
+
+Saoulis, A., Loureiro, A., Tsekhmistrenko, M. and Ferreira, A., 2026. [Semantic segmentation for feature detection in ocean bottom seismometer data](https://dx.doi.org/10.26443/seismica.v5i1.1821). Seismica, 5(1). doi:10.26443/seismica.v5i1.1821
+
+Saoulis, A.A., Piras, D., Jeffrey, N., Spurio Mancini, A., Ferreira, A.M. and Joachimi, B., 2025. [Transfer learning for multifidelity simulation-based inference in cosmology](https://dx.doi.org/10.1093/mnras/staf1436). Monthly Notices of the Royal Astronomical Society, 542(4), pp.3231-3245. doi:10.1093/mnras/staf1436
+
+Sturgeon, W. and Ferreira, A.M., 2025. [SGLOBE‐Q2D: A global 2‐D model of fundamental and higher mode Rayleigh wave attenuation from a large amplitude data set](https://dx.doi.org/10.1029/2024JB030139). Journal of Geophysical Research: Solid Earth, 130(7), p.e2024JB030139. doi:10.1029/2024JB030139
+
+Davies, J.H., Panton, J., Altoe, I., Andersen, M., Béguelin, P., Biggin, A., Davies, C., Elliott, T., Engbers, Y.A., Fernandes, V.M. and Ferreira, A.M.G., 2025. [How to assess similarities and differences between mantle circulation models and Earth using disparate independent observations](https://dx.doi.org/10.1098/rspa.2024.0827). Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 481(2315). doi:10.1098/rspa.2024.0827
+
+Saoulis, A.A., Piras, D., Spurio Mancini, A., Joachimi, B. and Ferreira, A.M.G., 2025. [Full-waveform earthquake source inversion using simulation-based inference](https://dx.doi.org/10.1093/gji/ggaf112). Geophysical Journal International, 241(3), pp.1740-1761. doi:10.1093/gji/ggaf112
+
+Ebbing, J., Hopper, J.R., Conrad, C.P., Milne, G., Steffen, R., Afonso, J.C., Barletta, V.R., Ferreira, A.M., Freienstein, J., Hansen, S.E. and Heincke, B.H., 2025. [Importance of solid earth structure for understanding the evolution of the Greenland ice sheet](https://dx.doi.org/10.1144/jgs2024-291). Journal of the Geological Society, pp.jgs2024-291. doi:10.1144/jgs2024-291
+
 
 
 Cabieces, R., Harris, K., Ferreira, A.M.G., Tsekhmistrenko, M., Hicks, S.P., Krüger, F., Geissler, W.H., Hannemann, K. and Schmidt-Aursch, M.C. (2024). [Clock drift corrections for large aperture ocean bottom seismometer arrays: application to the UPFLOW array in the mid-Atlantic Ocean](https://doi.org/10.1093/gji/ggae354). Geophysical Journal International, 239(3), pp.1709-1728. doi:10.1093/gji/ggae354
