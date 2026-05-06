@@ -17,7 +17,6 @@ Saoulis, A.A., Piras, D., Spurio Mancini, A., Joachimi, B. and Ferreira, A.M.G.,
 
 Cabieces, R., Harris, K., Ferreira, A.M.G., Tsekhmistrenko, M., Hicks, S.P., Krüger, F., Geissler, W.H., Hannemann, K. and Schmidt-Aursch, M.C. (2024). [Clock drift corrections for large aperture ocean bottom seismometer arrays: application to the UPFLOW array in the mid-Atlantic Ocean](https://doi.org/10.1093/gji/ggae354). Geophysical Journal International, 239(3), pp.1709-1728. doi:10.1093/gji/ggae354
 
-
 Rappisi, F., Witek, M., Faccenda, M., Ferreira, A.M.G., Chang, S.-J. (2024) [Artificial age-independent seismic anisotropy, slab thickening and shallowing due to limited resolving power of (an)isotropic tomography](https://academic.oup.com/gji/article/237/1/217/7590816), Geophysical Journal International, 237 (1), 217–234. doi:10.1093/gji/ggae042
 
 Jones, G. A., Ferreira, A. M. G., Kulessa, B., Schimmel, M., Berbellini, A., & Morelli, A. (2023). [Constraints on the cryohydrological warming of firn and ice in Greenland from Rayleigh wave ellipticity data](10.1029/2023gl103673). Geophysical Research Letters, 50, e2023GL103673. doi:10.1029/2023GL103673
