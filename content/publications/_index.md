@@ -13,17 +13,10 @@ Saoulis, A.A., Piras, D., Jeffrey, N., Spurio Mancini, A., Ferreira, A.M. and Jo
 
 Sturgeon, W. and Ferreira, A.M., 2025. [SGLOBE‐Q2D: A global 2‐D model of fundamental and higher mode Rayleigh wave attenuation from a large amplitude data set](https://dx.doi.org/10.1029/2024JB030139). Journal of Geophysical Research: Solid Earth, 130(7), p.e2024JB030139. doi:10.1029/2024JB030139
 
-Davies, J.H., Panton, J., Altoe, I., Andersen, M., Béguelin, P., Biggin, A., Davies, C., Elliott, T., Engbers, Y.A., Fernandes, V.M. and Ferreira, A.M.G., 2025. [How to assess similarities and differences between mantle circulation models and Earth using disparate independent observations](https://dx.doi.org/10.1098/rspa.2024.0827). Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 481(2315). doi:10.1098/rspa.2024.0827
-
 Saoulis, A.A., Piras, D., Spurio Mancini, A., Joachimi, B. and Ferreira, A.M.G., 2025. [Full-waveform earthquake source inversion using simulation-based inference](https://dx.doi.org/10.1093/gji/ggaf112). Geophysical Journal International, 241(3), pp.1740-1761. doi:10.1093/gji/ggaf112
-
-Ebbing, J., Hopper, J.R., Conrad, C.P., Milne, G., Steffen, R., Afonso, J.C., Barletta, V.R., Ferreira, A.M., Freienstein, J., Hansen, S.E. and Heincke, B.H., 2025. [Importance of solid earth structure for understanding the evolution of the Greenland ice sheet](https://dx.doi.org/10.1144/jgs2024-291). Journal of the Geological Society, pp.jgs2024-291. doi:10.1144/jgs2024-291
-
-
 
 Cabieces, R., Harris, K., Ferreira, A.M.G., Tsekhmistrenko, M., Hicks, S.P., Krüger, F., Geissler, W.H., Hannemann, K. and Schmidt-Aursch, M.C. (2024). [Clock drift corrections for large aperture ocean bottom seismometer arrays: application to the UPFLOW array in the mid-Atlantic Ocean](https://doi.org/10.1093/gji/ggae354). Geophysical Journal International, 239(3), pp.1709-1728. doi:10.1093/gji/ggae354
 
-Svennevig, K., Hicks, S.P., Forbriger, T., Lecocq, T., Widmer-Schnidrig, R., Mangeney, A., Hibert, C., Korsgaard, N.J., Lucas, A., Satriano, C. and Anthony, R.E. (2024). [A rockslide-generated tsunami in a Greenland fjord rang Earth for 9 days](https://doi.org/10.1126/science.adm9247). Science, 385(6714), pp.1196-1205. doi:10.1126/science.adm9247
 
 Rappisi, F., Witek, M., Faccenda, M., Ferreira, A.M.G., Chang, S.-J. (2024) [Artificial age-independent seismic anisotropy, slab thickening and shallowing due to limited resolving power of (an)isotropic tomography](https://academic.oup.com/gji/article/237/1/217/7590816), Geophysical Journal International, 237 (1), 217–234. doi:10.1093/gji/ggae042
 
