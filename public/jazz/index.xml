@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seismo-Jazz on UPFLOW</title>
-    <link>http://localhost:1313/jazz/</link>
+    <link>https://upflow-eu.github.io/jazz/</link>
     <description>Recent content in Seismo-Jazz on UPFLOW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>UPFLOW - All rights reserved,</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/jazz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://upflow-eu.github.io/jazz/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
