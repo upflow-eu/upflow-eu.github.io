@@ -37,5 +37,5 @@ Kendall, E., Faccenda, M., Ferreira, A. M. G., and Chang, S.-J. (2022). [On the 
 
 Jones G.A., Kulessa B., Ferreira A.M.G., Schimmel M., Berbellini A., Morelli A. (2022). [Extraction and applications of Rayleigh wave ellipticity in polar regions](https://cronfa.swan.ac.uk/Record/cronfa62257/Download/62257__26991__8f3ad939df56430da9fdb8480ed2556e.pdf). Annals of Glaciology, 63(87-89):3-7. doi:10.1017/aog.2023.1
 
-Jones, G.A., Ferreira, A.M.G., Kulessa, B., Schimmel, M., Berbellini, A., Morelli, A. (2021). [Uppermost crustal structure regulates the flow of the Greenland Ice Sheet](https://www.nature.com/articles/s41467-021-27537-5). Nature Communications, 12. doi:10.1038/s41467-021-27537-5
+Jone, G.A., Ferreira, A.M.G., Kulessa, B., Schimmel, M., Berbellini, A., Morelli, A. (2021). [Uppermost crustal structure regulates the flow of the Greenland Ice Sheet](https://www.nature.com/articles/s41467-021-27537-5). Nature Communications, 12. doi:10.1038/s41467-021-27537-5
 
