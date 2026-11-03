@@ -3,7 +3,7 @@ title: "Publications"
 date: 2021-06-23T12:37:47+01:00
 weight: 4
 ---
-Hicks, S.P., Gonzalez, P.J., Lomax, A., Ferreira, A.M., Ramalho, R.S., Mitchell, N.C., Silveira, G., Dias, N.A., Fontiela, J., Fernandes, R. and Custódio, S., 2026. [Fault-mediated magma propagation and triggered seismicity revealed by the 2022 São Jorge Azores unrest](https://dx.doi.org/10.1038/s41467-026-71668-6). Nature Communications, 17(1), p.3531. doi:10.1038/s41467-026-71668-6
+Hicks, S.P., Gonzalez, P.J., Lomax, A., Ferreir, A.M., Ramalho, R.S., Mitchell, N.C., Silveira, G., Dias, N.A., Fontiela, J., Fernandes, R. and Custódio, S., 2026. [Fault-mediated magma propagation and triggered seismicity revealed by the 2022 São Jorge Azores unrest](https://dx.doi.org/10.1038/s41467-026-71668-6). Nature Communications, 17(1), p.3531. doi:10.1038/s41467-026-71668-6
 
 Ferreira, A.M.G., 2026. [Charting the mantle](https://dx.doi.org/10.1093/astrogeo/atag007). Astronomy & Geophysics, 67(2), pp.2-35. doi:10.1093/astrogeo/atag007
 
