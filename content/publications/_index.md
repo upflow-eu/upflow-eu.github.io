@@ -3,7 +3,9 @@ title: "Publications"
 date: 2021-06-23T12:37:47+01:00
 weight: 4
 ---
-Hicks, S.P., Gonzalez, P.J., Lomax, A., Ferreir, A.M., Ramalho, R.S., Mitchell, N.C., Silveira, G., Dias, N.A., Fontiela, J., Fernandes, R. and Custódio, S., 2026. [Fault-mediated magma propagation and triggered seismicity revealed by the 2022 São Jorge Azores unrest](https://dx.doi.org/10.1038/s41467-026-71668-6). Nature Communications, 17(1), p.3531. doi:10.1038/s41467-026-71668-6
+Tsekhmistrenko, M., Ferreira, A. M., Miranda, M., Baranbooei, S., Cabieces, R., Carapuço, M., Corela, C., Duarte, J. L., Ferreira, H., Geissler, W. H., Harris, K., Hicks, S. P., Hosseini, K., Ke, K.-Y., Krüger, F., Lange, D., Loureiro, A., Makus, P., Marignier, A., Neres, M., Ramos, L., Rein, T., Saoulis, A., Schlaphorst, D., Schmidt-Aursch, M. C., & Tilmann, F. 2026. [Performance of the 2021-2022 UPFLOW large ocean bottom seismometer array in the Azores-Madeira-Canary Islands region, Atlantic Ocean.](https://seismica.library.mcgill.ca/article/view/1556) Seismica, 5(2). doi:10.26443/seismica.v5i2.1556
+
+Hicks, S.P., Gonzalez, P.J., Lomax, A., Ferreira, A.M., Ramalho, R.S., Mitchell, N.C., Silveira, G., Dias, N.A., Fontiela, J., Fernandes, R. and Custódio, S., 2026. [Fault-mediated magma propagation and triggered seismicity revealed by the 2022 São Jorge Azores unrest](https://dx.doi.org/10.1038/s41467-026-71668-6). Nature Communications, 17(1), p.3531. doi:10.1038/s41467-026-71668-6
 
 Ferreira, A.M.G., 2026. [Charting the mantle](https://dx.doi.org/10.1093/astrogeo/atag007). Astronomy & Geophysics, 67(2), pp.2-35. doi:10.1093/astrogeo/atag007
 
