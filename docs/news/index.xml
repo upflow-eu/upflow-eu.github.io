@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>UPFLOW - All rights reserved,</copyright>
-    <lastBuildDate>Mon, 18 Jul 2022 11:44:41 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 12:14:54 +0100</lastBuildDate>
     <atom:link href="https://upflow-eu.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OBS recovery and expeditions overview</title>
+      <link>https://upflow-eu.github.io/news/obs_recovery/</link>
+      <pubDate>Fri, 27 Mar 2026 12:14:54 +0100</pubDate>
+      <guid>https://upflow-eu.github.io/news/obs_recovery/</guid>
+      <description>UPFLOW overview paper published in A&amp;amp;G</description>
+    </item>
+    <item>
+      <title>BBC coverage of UPFLOW</title>
+      <link>https://upflow-eu.github.io/news/bbc_coverage/</link>
+      <pubDate>Tue, 17 Jan 2023 12:14:54 +0100</pubDate>
+      <guid>https://upflow-eu.github.io/news/bbc_coverage/</guid>
+      <description>UPFLOW makes headlines on BBC News!</description>
+    </item>
     <item>
       <title>Recovery Countdown</title>
       <link>https://upflow-eu.github.io/news/recovery_countdown/</link>
