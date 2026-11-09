@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>UPFLOW - All rights reserved,</copyright>
-    <lastBuildDate>Tue, 05 May 2026 11:19:02 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:52:23 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stephen Hicks</title>
@@ -269,6 +269,13 @@
       <description>Superintendent</description>
     </item>
     <item>
+      <title>Nature coverage of UPFLOW</title>
+      <link>http://localhost:1313/news/nature_coverage/</link>
+      <pubDate>Tue, 14 Jul 2026 12:14:54 +0100</pubDate>
+      <guid>http://localhost:1313/news/nature_coverage/</guid>
+      <description>UPFLOW makes waves in Nature!</description>
+    </item>
+    <item>
       <title>OBS recovery and expeditions overview</title>
       <link>http://localhost:1313/news/obs_recovery/</link>
       <pubDate>Fri, 27 Mar 2026 12:14:54 +0100</pubDate>
@@ -351,6 +358,13 @@
       <pubDate>Mon, 01 Aug 2022 10:37:13 +0100</pubDate>
       <guid>http://localhost:1313/experiment/team/katrina/</guid>
       <description>Scientist, Outreach &amp;amp; Communications</description>
+    </item>
+    <item>
+      <title>Recovery Countdown</title>
+      <link>http://localhost:1313/news/data_paper/</link>
+      <pubDate>Mon, 18 Jul 2022 11:43:21 +0100</pubDate>
+      <guid>http://localhost:1313/news/data_paper/</guid>
+      <description>Countdown for the 2022 recovery expedition&amp;hellip;</description>
     </item>
     <item>
       <title>Recovery Countdown</title>
